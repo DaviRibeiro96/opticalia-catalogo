@@ -1,0 +1,45 @@
+name: Catalogo Meta
+# Le o site www.opticalia.com.br de hora em hora e publica o catalogo da Meta em GitHub Pages.
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["dados_catalogo.json", "catalogo_meta.py", ".github/workflows/catalogo.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: catalogo
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Gerar catalogo a partir do site
+        run: python catalogo_meta.py --dados dados_catalogo.json --saida docs
+      - name: Guardar no historico quando mudar (e manter o agendamento ativo)
+        run: |
+          date -u +%Y-%m-%d > docs/ultimo_dia.txt
+          git config user.name "catalogo-bot"
+          git config user.email "catalogo-bot@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || (git commit -m "Catalogo atualizado" && git push)
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4
