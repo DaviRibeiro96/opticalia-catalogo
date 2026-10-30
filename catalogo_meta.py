@@ -28,9 +28,9 @@ TIPO = {'sol': 'Óculos de Sol', 'grau': 'Óculos de Grau', 'lentes': 'Lentes de
 GENERO = {'Masculino': 'male', 'Feminino': 'female', 'Unissex': 'unisex', 'Infantil': 'unisex'}
 COLUNAS = ['id', 'title', 'description', 'availability', 'condition', 'price', 'sale_price', 'link', 'image_link',
            'additional_image_link', 'brand', 'google_product_category', 'product_type', 'item_group_id', 'gtin', 'mpn',
-           'color', 'material', 'gender', 'age_group', 'inventory', 'custom_label_0', 'custom_label_1']
+           'color', 'material', 'gender', 'age_group', 'inventory', 'custom_label_0', 'custom_label_1', 'custom_label_2']
 # o que vai para o GitHub (publico): nada de custo, margem ou estoque do fornecedor
-CAMPOS_PUBLICOS = ['ean', 'sku', 'marca', 'modelo', 'cor', 'cor_lente', 'material', 'formato', 'sexo', 'lente_mm', 'ponte_mm', 'haste_mm']
+CAMPOS_PUBLICOS = ['ean', 'sku', 'marca', 'modelo', 'cor', 'cor_lente', 'material', 'formato', 'sexo', 'lente_mm', 'ponte_mm', 'haste_mm', 'best_seller']
 
 
 def arg(nome, padrao=None):
@@ -48,7 +48,7 @@ def dados_locais():
     for sku, pid in ids.items():
         m = por_sku.get(sku)
         if m:
-            prod[str(pid)] = {k: m.get(k) for k in CAMPOS_PUBLICOS if m.get(k) not in (None, '')}
+            prod[str(pid)] = {k: m.get(k) for k in CAMPOS_PUBLICOS if m.get(k) not in (None, '', False)}
     for pid, lista in fotos.items():
         prod.setdefault(pid, {})['fotos'] = lista
     return {'gerado': datetime.now().isoformat(timespec='seconds'), 'produtos': prod}
@@ -152,7 +152,8 @@ def gerar(comp):
                 'item_group_id': ('%s %s' % (marca, m['modelo'])).strip() if m.get('modelo') else '',
                 'gtin': m.get('ean', ''), 'mpn': m.get('sku', ''), 'color': m.get('cor', ''), 'material': m.get('material', ''),
                 'gender': GENERO.get(m.get('sexo'), 'unisex'), 'age_group': 'kids' if m.get('sexo') == 'Infantil' else 'adult',
-                'inventory': c['estoque'], 'custom_label_0': tipo, 'custom_label_1': 'promocao' if promo else ''})
+                'inventory': c['estoque'], 'custom_label_0': tipo, 'custom_label_1': 'promocao' if promo else '',
+                'custom_label_2': 'mais_vendido' if m.get('best_seller') else ''})
     rel['total'] = len(linhas)
     return linhas, rel
 
@@ -180,7 +181,8 @@ def main():
     with open(arq + '.tmp', 'w', encoding='utf-8', newline='') as f:
         w = csv.DictWriter(f, fieldnames=COLUNAS)
         w.writeheader()
-        w.writerows(sorted(linhas, key=lambda r: int(r['id'])))
+        # mais vendidos (marcados pela Marchon) primeiro: a ordem do arquivo costuma ser a ordem do catalogo
+        w.writerows(sorted(linhas, key=lambda r: (r['custom_label_2'] != 'mais_vendido', r['availability'] != 'in stock', int(r['id']))))
     os.replace(arq + '.tmp', arq)
     json.dump(rel, open(os.path.join(saida, 'relatorio.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print('ok:', arq)

@@ -1,5 +1,5 @@
 {
-"gerado": "2026-10-29T20:51:20",
+"gerado": "2026-10-30T09:09:47",
 "produtos": {
 "7000": {
 "marca": "Caili"
@@ -488,6 +488,7 @@
 "lente_mm": "54",
 "ponte_mm": "17",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793286830.jpeg",
 "/uploads/1793286837.jpeg",
@@ -879,6 +880,7 @@
 "lente_mm": "54",
 "ponte_mm": "19",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793287244.jpeg",
 "/uploads/1793287249.jpeg",
@@ -902,6 +904,7 @@
 "lente_mm": "56",
 "ponte_mm": "15",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793287242.jpeg",
 "/uploads/1793287258.jpeg",
@@ -972,6 +975,7 @@
 "lente_mm": "51",
 "ponte_mm": "19",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793287299.jpeg",
 "/uploads/1793287306.jpeg",
@@ -1163,6 +1167,7 @@
 "lente_mm": "51",
 "ponte_mm": "21",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793287388.jpeg",
 "/uploads/1793287401.jpeg",
@@ -1349,6 +1354,7 @@
 "lente_mm": "59",
 "ponte_mm": "15",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793287544.jpeg"
 ]
@@ -3127,6 +3133,7 @@
 "lente_mm": "54",
 "ponte_mm": "19",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793288864.jpeg",
 "/uploads/1793288870.jpeg",
@@ -3597,6 +3604,7 @@
 "lente_mm": "63",
 "ponte_mm": "20",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289350.jpeg",
 "/uploads/1793289358.jpeg",
@@ -3644,6 +3652,7 @@
 "lente_mm": "55",
 "ponte_mm": "18",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289371.jpeg",
 "/uploads/1793289381.jpeg",
@@ -3667,6 +3676,7 @@
 "lente_mm": "54",
 "ponte_mm": "20",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289384.jpeg",
 "/uploads/1793289394.jpeg",
@@ -3713,6 +3723,7 @@
 "lente_mm": "55",
 "ponte_mm": "15",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289454.jpeg",
 "/uploads/1793289467.jpeg",
@@ -3736,6 +3747,7 @@
 "lente_mm": "51",
 "ponte_mm": "20",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289457.jpeg",
 "/uploads/1793289464.jpeg",
@@ -3782,6 +3794,7 @@
 "lente_mm": "53",
 "ponte_mm": "19",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289550.jpeg",
 "/uploads/1793289560.jpeg",
@@ -3806,6 +3819,7 @@
 "lente_mm": "57",
 "ponte_mm": "17",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289547.jpeg",
 "/uploads/1793289553.jpeg",
@@ -3830,6 +3844,7 @@
 "lente_mm": "52",
 "ponte_mm": "20",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289564.jpeg",
 "/uploads/1793289579.jpeg",
@@ -3899,6 +3914,7 @@
 "lente_mm": "50",
 "ponte_mm": "20",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289666.jpeg",
 "/uploads/1793289684.jpeg",
@@ -3968,6 +3984,7 @@
 "lente_mm": "57",
 "ponte_mm": "14",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289740.jpeg",
 "/uploads/1793289749.jpeg",
@@ -4014,6 +4031,7 @@
 "lente_mm": "55",
 "ponte_mm": "17",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289832.jpeg",
 "/uploads/1793289839.jpeg",
@@ -4037,6 +4055,7 @@
 "lente_mm": "54",
 "ponte_mm": "20",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289829.jpeg",
 "/uploads/1793289838.jpeg",
@@ -4060,6 +4079,7 @@
 "lente_mm": "50",
 "ponte_mm": "21",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289840.jpeg",
 "/uploads/1793289847.jpeg",
@@ -4083,6 +4103,7 @@
 "lente_mm": "54",
 "ponte_mm": "18",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289848.jpeg",
 "/uploads/1793289853.jpeg",
@@ -4106,6 +4127,7 @@
 "lente_mm": "52",
 "ponte_mm": "20",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289902.jpeg",
 "/uploads/1793289916.jpeg",
@@ -4129,6 +4151,7 @@
 "lente_mm": "51",
 "ponte_mm": "21",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289927.jpeg",
 "/uploads/1793289944.jpeg",
@@ -4152,6 +4175,7 @@
 "lente_mm": "58",
 "ponte_mm": "17",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289947.jpeg",
 "/uploads/1793289950.jpeg",
@@ -4175,6 +4199,7 @@
 "lente_mm": "52",
 "ponte_mm": "20",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289953.jpeg",
 "/uploads/1793289962.jpeg",
@@ -4198,6 +4223,7 @@
 "lente_mm": "54",
 "ponte_mm": "20",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793289999.jpeg",
 "/uploads/1793290002.jpeg",
@@ -4221,6 +4247,7 @@
 "lente_mm": "51",
 "ponte_mm": "21",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290012.jpeg",
 "/uploads/1793290018.jpeg",
@@ -4245,6 +4272,7 @@
 "lente_mm": "50",
 "ponte_mm": "21",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290019.jpeg",
 "/uploads/1793290027.jpeg",
@@ -4548,6 +4576,7 @@
 "lente_mm": "52",
 "ponte_mm": "19",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290256.jpeg",
 "/uploads/1793290267.jpeg",
@@ -4880,6 +4909,7 @@
 "lente_mm": "54",
 "ponte_mm": "18",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290521.jpeg",
 "/uploads/1793290528.jpeg",
@@ -4926,6 +4956,7 @@
 "lente_mm": "55",
 "ponte_mm": "19",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290552.jpeg",
 "/uploads/1793290558.jpeg",
@@ -5041,6 +5072,7 @@
 "lente_mm": "55",
 "ponte_mm": "17",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290667.jpeg",
 "/uploads/1793290669.jpeg",
@@ -5134,6 +5166,7 @@
 "lente_mm": "52",
 "ponte_mm": "16",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290737.jpeg",
 "/uploads/1793290749.jpeg",
@@ -5181,6 +5214,7 @@
 "lente_mm": "52",
 "ponte_mm": "17",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290767.jpeg",
 "/uploads/1793290773.jpeg",
@@ -5319,6 +5353,7 @@
 "lente_mm": "53",
 "ponte_mm": "17",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290902.jpeg",
 "/uploads/1793290908.jpeg",
@@ -5342,6 +5377,7 @@
 "lente_mm": "52",
 "ponte_mm": "18",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290907.jpeg",
 "/uploads/1793290918.jpeg",
@@ -5365,6 +5401,7 @@
 "lente_mm": "53",
 "ponte_mm": "17",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290920.jpeg",
 "/uploads/1793290931.jpeg",
@@ -5412,6 +5449,7 @@
 "lente_mm": "53",
 "ponte_mm": "16",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290971.jpeg",
 "/uploads/1793290980.jpeg"
@@ -5429,6 +5467,7 @@
 "lente_mm": "50",
 "ponte_mm": "17",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793290982.jpeg",
 "/uploads/1793290990.jpeg",
@@ -5590,6 +5629,7 @@
 "lente_mm": "56",
 "ponte_mm": "16",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793291156.jpeg",
 "/uploads/1793291168.jpeg",
@@ -6238,6 +6278,7 @@
 "lente_mm": "55",
 "ponte_mm": "14",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793291663.jpeg"
 ]
@@ -6254,6 +6295,7 @@
 "lente_mm": "56",
 "ponte_mm": "15",
 "haste_mm": "140",
+"best_seller": true,
 "fotos": [
 "/uploads/1793291666.jpeg",
 "/uploads/1793291672.jpeg"
@@ -6271,6 +6313,7 @@
 "lente_mm": "50",
 "ponte_mm": "20",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793291674.jpeg",
 "/uploads/1793291684.jpeg",
@@ -6294,6 +6337,7 @@
 "lente_mm": "58",
 "ponte_mm": "15",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793291681.jpeg",
 "/uploads/1793291689.jpeg",
@@ -6455,6 +6499,7 @@
 "lente_mm": "54",
 "ponte_mm": "17",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793291817.jpeg",
 "/uploads/1793291826.jpeg",
@@ -6501,6 +6546,7 @@
 "lente_mm": "59",
 "ponte_mm": "17",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793291850.jpeg",
 "/uploads/1793291865.jpeg",
@@ -7619,6 +7665,7 @@
 "lente_mm": "49",
 "ponte_mm": "23",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293199.jpeg"
 ]
@@ -7635,6 +7682,7 @@
 "lente_mm": "59",
 "ponte_mm": "20",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293206.jpeg"
 ]
@@ -7651,6 +7699,7 @@
 "lente_mm": "54",
 "ponte_mm": "19",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293213.jpeg"
 ]
@@ -7667,6 +7716,7 @@
 "lente_mm": "49",
 "ponte_mm": "20",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293216.jpeg"
 ]
@@ -7683,6 +7733,7 @@
 "lente_mm": "54",
 "ponte_mm": "18",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293222.jpeg"
 ]
@@ -7699,6 +7750,7 @@
 "lente_mm": "51",
 "ponte_mm": "21",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293234.jpeg"
 ]
@@ -7715,6 +7767,7 @@
 "lente_mm": "51",
 "ponte_mm": "20",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293228.jpeg"
 ]
@@ -7731,6 +7784,7 @@
 "lente_mm": "53",
 "ponte_mm": "19",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293233.jpeg"
 ]
@@ -7747,6 +7801,7 @@
 "lente_mm": "60",
 "ponte_mm": "14",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293244.jpeg"
 ]
@@ -7763,6 +7818,7 @@
 "lente_mm": "52",
 "ponte_mm": "21",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293243.jpeg"
 ]
@@ -7779,6 +7835,7 @@
 "lente_mm": "51",
 "ponte_mm": "21",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293240.jpeg"
 ]
@@ -7795,6 +7852,7 @@
 "lente_mm": "57",
 "ponte_mm": "18",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293246.jpeg"
 ]
@@ -7811,6 +7869,7 @@
 "lente_mm": "49",
 "ponte_mm": "24",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293252.jpeg"
 ]
@@ -7827,6 +7886,7 @@
 "lente_mm": "51",
 "ponte_mm": "21",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293255.jpeg"
 ]
@@ -7843,6 +7903,7 @@
 "lente_mm": "51",
 "ponte_mm": "21",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293253.jpeg"
 ]
@@ -7859,6 +7920,7 @@
 "lente_mm": "53",
 "ponte_mm": "21",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293265.jpeg"
 ]
@@ -7875,6 +7937,7 @@
 "lente_mm": "48",
 "ponte_mm": "24",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793293270.jpeg"
 ]
@@ -12935,6 +12998,7 @@
 "lente_mm": "59",
 "ponte_mm": "18",
 "haste_mm": "145",
+"best_seller": true,
 "fotos": [
 "/uploads/1793308377.jpeg"
 ]
@@ -13033,6 +13097,7 @@
 "lente_mm": "51",
 "ponte_mm": "20",
 "haste_mm": "148",
+"best_seller": true,
 "fotos": [
 "/uploads/1793308455.jpeg"
 ]
@@ -13309,6 +13374,7 @@
 "lente_mm": "50",
 "ponte_mm": "22",
 "haste_mm": "150",
+"best_seller": true,
 "fotos": [
 "/uploads/1793308592.jpeg",
 "/uploads/1793308601.jpeg",
