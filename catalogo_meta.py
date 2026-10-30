@@ -28,7 +28,7 @@ TIPO = {'sol': 'Óculos de Sol', 'grau': 'Óculos de Grau', 'lentes': 'Lentes de
 GENERO = {'Masculino': 'male', 'Feminino': 'female', 'Unissex': 'unisex', 'Infantil': 'unisex'}
 COLUNAS = ['id', 'title', 'description', 'availability', 'condition', 'price', 'sale_price', 'link', 'image_link',
            'additional_image_link', 'brand', 'google_product_category', 'product_type', 'item_group_id', 'gtin', 'mpn',
-           'color', 'material', 'gender', 'age_group', 'inventory', 'custom_label_0', 'custom_label_1', 'custom_label_2']
+           'color', 'material', 'gender', 'age_group', 'inventory', 'custom_label_0', 'custom_label_1', 'custom_label_2', 'internal_label']
 # o que vai para o GitHub (publico): nada de custo, margem ou estoque do fornecedor
 CAMPOS_PUBLICOS = ['ean', 'sku', 'marca', 'modelo', 'cor', 'cor_lente', 'material', 'formato', 'sexo', 'lente_mm', 'ponte_mm', 'haste_mm', 'best_seller']
 
@@ -153,7 +153,9 @@ def gerar(comp):
                 'gtin': m.get('ean', ''), 'mpn': m.get('sku', ''), 'color': m.get('cor', ''), 'material': m.get('material', ''),
                 'gender': GENERO.get(m.get('sexo'), 'unisex'), 'age_group': 'kids' if m.get('sexo') == 'Infantil' else 'adult',
                 'inventory': c['estoque'], 'custom_label_0': tipo, 'custom_label_1': 'promocao' if promo else '',
-                'custom_label_2': 'mais_vendido' if m.get('best_seller') else ''})
+                'custom_label_2': 'mais_vendido' if m.get('best_seller') else '',
+                # rotulo interno: nao passa por analise da Meta e serve de filtro de conjunto na hora
+                'internal_label': "['mais_vendido']" if m.get('best_seller') else ''})
     rel['total'] = len(linhas)
     return linhas, rel
 
