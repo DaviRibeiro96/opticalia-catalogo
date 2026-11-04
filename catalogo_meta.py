@@ -116,7 +116,7 @@ def descricao(tipo, nome, marca, m):
         frases.append('Armação original com garantia. As lentes de grau são feitas em uma loja Opticalia, com a sua receita.')
     elif tipo == 'sol':
         frases.append('Óculos original com garantia e proteção UV.')
-    frases.append('Compre no site da Opticalia Brasil: pagamento em até 6x sem juros ou no Pix e troca fácil.')
+    frases.append('Compre no site da Opticalia Brasil: pagamento em até 8x sem juros ou no Pix e troca fácil.')
     return ' '.join(frases)
 
 

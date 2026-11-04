@@ -1,5 +1,5 @@
 {
-"gerado": "2026-10-30T09:23:31",
+"gerado": "2026-11-04T00:04:51",
 "produtos": {
 "7000": {
 "marca": "Caili"
@@ -492,6 +492,7 @@
 "fotos": [
 "/uploads/1793286830.jpeg",
 "/uploads/1793286837.jpeg",
+"/uploads/1793418097.jpeg",
 "/uploads/1793286866.jpeg",
 "/uploads/1793286879.jpeg",
 "/uploads/1793286885.jpeg",
@@ -846,17 +847,7 @@
 ]
 },
 "20250": {
-"ean": "883901188851",
-"sku": "CKJ262035616705",
 "marca": "Calvin Klein Jeans",
-"modelo": "CKJ26203",
-"cor": "Âmbar e Vinho",
-"material": "Metal",
-"formato": "Retangular",
-"sexo": "Feminino",
-"lente_mm": "56",
-"ponte_mm": "16",
-"haste_mm": "140",
 "fotos": [
 "/uploads/1793287167.jpeg",
 "/uploads/1793287175.jpeg",
@@ -869,21 +860,11 @@
 ]
 },
 "20260": {
-"ean": "883901188882",
-"sku": "CKJ262045419002",
 "marca": "Calvin Klein Jeans",
-"modelo": "CKJ26204",
-"cor": "Preto",
-"material": "Metal",
-"formato": "Retangular",
-"sexo": "Unissex",
-"lente_mm": "54",
-"ponte_mm": "19",
-"haste_mm": "145",
-"best_seller": true,
 "fotos": [
 "/uploads/1793287244.jpeg",
 "/uploads/1793287249.jpeg",
+"/uploads/1793390139.jpeg",
 "/uploads/1793287253.jpeg",
 "/uploads/1793287256.jpeg",
 "/uploads/1793287267.jpeg",
@@ -908,6 +889,7 @@
 "fotos": [
 "/uploads/1793287242.jpeg",
 "/uploads/1793287258.jpeg",
+"/uploads/1793390141.jpeg",
 "/uploads/1793287264.jpeg",
 "/uploads/1793287270.jpeg",
 "/uploads/1793287274.jpeg",
@@ -979,6 +961,7 @@
 "fotos": [
 "/uploads/1793287299.jpeg",
 "/uploads/1793287306.jpeg",
+"/uploads/1793390146.jpeg",
 "/uploads/1793287315.jpeg",
 "/uploads/1793287320.jpeg",
 "/uploads/1793287323.jpeg",
@@ -988,17 +971,7 @@
 ]
 },
 "20310": {
-"ean": "883901197952",
-"sku": "CKJ266375119400",
 "marca": "Calvin Klein Jeans",
-"modelo": "CKJ26637",
-"cor": "Azul",
-"material": "Acetato",
-"formato": "Oval",
-"sexo": "Unissex",
-"lente_mm": "51",
-"ponte_mm": "19",
-"haste_mm": "145",
 "fotos": [
 "/uploads/1793287316.jpeg",
 "/uploads/1793287319.jpeg",
@@ -1171,6 +1144,7 @@
 "fotos": [
 "/uploads/1793287388.jpeg",
 "/uploads/1793287401.jpeg",
+"/uploads/1793390144.jpeg",
 "/uploads/1793287405.jpeg",
 "/uploads/1793287408.jpeg",
 "/uploads/1793287419.jpeg",
@@ -1356,7 +1330,8 @@
 "haste_mm": "140",
 "best_seller": true,
 "fotos": [
-"/uploads/1793287544.jpeg"
+"/uploads/1793287544.jpeg",
+"/uploads/1793390148.jpeg"
 ]
 },
 "20470": {
@@ -3137,6 +3112,11 @@
 "fotos": [
 "/uploads/1793288864.jpeg",
 "/uploads/1793288870.jpeg",
+"/uploads/1793387813.jpeg",
+"/uploads/1793367912.jpeg",
+"/uploads/1793367921.jpeg",
+"/uploads/1793367930.jpeg",
+"/uploads/1793387816.jpeg",
 "/uploads/1793288873.jpeg",
 "/uploads/1793288883.jpeg",
 "/uploads/1793288892.jpeg",
@@ -3608,6 +3588,7 @@
 "fotos": [
 "/uploads/1793289350.jpeg",
 "/uploads/1793289358.jpeg",
+"/uploads/1793390150.jpeg",
 "/uploads/1793289370.jpeg",
 "/uploads/1793289391.jpeg",
 "/uploads/1793289396.jpeg",
@@ -3656,6 +3637,7 @@
 "fotos": [
 "/uploads/1793289371.jpeg",
 "/uploads/1793289381.jpeg",
+"/uploads/1793390152.jpeg",
 "/uploads/1793289393.jpeg",
 "/uploads/1793289403.jpeg",
 "/uploads/1793289409.jpeg",
@@ -3680,6 +3662,7 @@
 "fotos": [
 "/uploads/1793289384.jpeg",
 "/uploads/1793289394.jpeg",
+"/uploads/1793390282.jpeg",
 "/uploads/1793289401.jpeg",
 "/uploads/1793289413.jpeg",
 "/uploads/1793289419.jpeg",
@@ -3727,6 +3710,7 @@
 "fotos": [
 "/uploads/1793289454.jpeg",
 "/uploads/1793289467.jpeg",
+"/uploads/1793390295.jpeg",
 "/uploads/1793289469.jpeg",
 "/uploads/1793289478.jpeg",
 "/uploads/1793289497.jpeg",
@@ -3751,6 +3735,7 @@
 "fotos": [
 "/uploads/1793289457.jpeg",
 "/uploads/1793289464.jpeg",
+"/uploads/1793418110.jpeg",
 "/uploads/1793289471.jpeg",
 "/uploads/1793289481.jpeg",
 "/uploads/1793289500.jpeg",
@@ -3798,6 +3783,7 @@
 "fotos": [
 "/uploads/1793289550.jpeg",
 "/uploads/1793289560.jpeg",
+"/uploads/1793390306.jpeg",
 "/uploads/1793289572.jpeg",
 "/uploads/1793289582.jpeg",
 "/uploads/1793289589.jpeg",
@@ -3823,6 +3809,7 @@
 "fotos": [
 "/uploads/1793289547.jpeg",
 "/uploads/1793289553.jpeg",
+"/uploads/1793390312.jpeg",
 "/uploads/1793289562.jpeg",
 "/uploads/1793289571.jpeg",
 "/uploads/1793289580.jpeg",
@@ -3848,6 +3835,9 @@
 "fotos": [
 "/uploads/1793289564.jpeg",
 "/uploads/1793289579.jpeg",
+"/uploads/1793367939.jpeg",
+"/uploads/1793367947.jpeg",
+"/uploads/1793367956.jpeg",
 "/uploads/1793289590.jpeg",
 "/uploads/1793289596.jpeg",
 "/uploads/1793289639.jpeg",
@@ -3918,6 +3908,7 @@
 "fotos": [
 "/uploads/1793289666.jpeg",
 "/uploads/1793289684.jpeg",
+"/uploads/1793390318.jpeg",
 "/uploads/1793289688.jpeg",
 "/uploads/1793289700.jpeg",
 "/uploads/1793289706.jpeg",
@@ -3988,6 +3979,7 @@
 "fotos": [
 "/uploads/1793289740.jpeg",
 "/uploads/1793289749.jpeg",
+"/uploads/1793390323.jpeg",
 "/uploads/1793289760.jpeg",
 "/uploads/1793289763.jpeg",
 "/uploads/1793289770.jpeg",
@@ -4035,6 +4027,7 @@
 "fotos": [
 "/uploads/1793289832.jpeg",
 "/uploads/1793289839.jpeg",
+"/uploads/1793390760.jpeg",
 "/uploads/1793289844.jpeg",
 "/uploads/1793289857.jpeg",
 "/uploads/1793289863.jpeg",
@@ -4059,6 +4052,7 @@
 "fotos": [
 "/uploads/1793289829.jpeg",
 "/uploads/1793289838.jpeg",
+"/uploads/1793390289.jpeg",
 "/uploads/1793289845.jpeg",
 "/uploads/1793289854.jpeg",
 "/uploads/1793289864.jpeg",
@@ -4083,6 +4077,9 @@
 "fotos": [
 "/uploads/1793289840.jpeg",
 "/uploads/1793289847.jpeg",
+"/uploads/1793367964.jpeg",
+"/uploads/1793367973.jpeg",
+"/uploads/1793367982.jpeg",
 "/uploads/1793289856.jpeg",
 "/uploads/1793289866.jpeg",
 "/uploads/1793289871.jpeg",
@@ -4107,6 +4104,7 @@
 "fotos": [
 "/uploads/1793289848.jpeg",
 "/uploads/1793289853.jpeg",
+"/uploads/1793537803.jpeg",
 "/uploads/1793289867.jpeg",
 "/uploads/1793289874.jpeg",
 "/uploads/1793289886.jpeg",
@@ -4131,6 +4129,7 @@
 "fotos": [
 "/uploads/1793289902.jpeg",
 "/uploads/1793289916.jpeg",
+"/uploads/1793418114.jpeg",
 "/uploads/1793289933.jpeg",
 "/uploads/1793289948.jpeg",
 "/uploads/1793289952.jpeg",
@@ -4155,6 +4154,7 @@
 "fotos": [
 "/uploads/1793289927.jpeg",
 "/uploads/1793289944.jpeg",
+"/uploads/1793390614.jpeg",
 "/uploads/1793289954.jpeg",
 "/uploads/1793289961.jpeg",
 "/uploads/1793289970.jpeg",
@@ -4179,6 +4179,7 @@
 "fotos": [
 "/uploads/1793289947.jpeg",
 "/uploads/1793289950.jpeg",
+"/uploads/1793390616.jpeg",
 "/uploads/1793289964.jpeg",
 "/uploads/1793289969.jpeg",
 "/uploads/1793289980.jpeg",
@@ -4203,6 +4204,7 @@
 "fotos": [
 "/uploads/1793289953.jpeg",
 "/uploads/1793289962.jpeg",
+"/uploads/1793418118.jpeg",
 "/uploads/1793289968.jpeg",
 "/uploads/1793289976.jpeg",
 "/uploads/1793289984.jpeg",
@@ -4227,6 +4229,7 @@
 "fotos": [
 "/uploads/1793289999.jpeg",
 "/uploads/1793290002.jpeg",
+"/uploads/1793418123.jpeg",
 "/uploads/1793290015.jpeg",
 "/uploads/1793290021.jpeg",
 "/uploads/1793290028.jpeg",
@@ -4251,6 +4254,7 @@
 "fotos": [
 "/uploads/1793290012.jpeg",
 "/uploads/1793290018.jpeg",
+"/uploads/1793537833.jpeg",
 "/uploads/1793290030.jpeg",
 "/uploads/1793290038.jpeg",
 "/uploads/1793290049.jpeg",
@@ -4276,6 +4280,7 @@
 "fotos": [
 "/uploads/1793290019.jpeg",
 "/uploads/1793290027.jpeg",
+"/uploads/1793391163.jpeg",
 "/uploads/1793290035.jpeg",
 "/uploads/1793290046.jpeg",
 "/uploads/1793290054.jpeg",
@@ -4580,6 +4585,9 @@
 "fotos": [
 "/uploads/1793290256.jpeg",
 "/uploads/1793290267.jpeg",
+"/uploads/1793367990.jpeg",
+"/uploads/1793367998.jpeg",
+"/uploads/1793368007.jpeg",
 "/uploads/1793290270.jpeg",
 "/uploads/1793290281.jpeg",
 "/uploads/1793290290.jpeg",
@@ -4913,6 +4921,7 @@
 "fotos": [
 "/uploads/1793290521.jpeg",
 "/uploads/1793290528.jpeg",
+"/uploads/1793390888.jpeg",
 "/uploads/1793290538.jpeg",
 "/uploads/1793290549.jpeg",
 "/uploads/1793290555.jpeg",
@@ -4960,6 +4969,7 @@
 "fotos": [
 "/uploads/1793290552.jpeg",
 "/uploads/1793290558.jpeg",
+"/uploads/1793390893.jpeg",
 "/uploads/1793290567.jpeg",
 "/uploads/1793290574.jpeg",
 "/uploads/1793290583.jpeg",
@@ -5076,6 +5086,7 @@
 "fotos": [
 "/uploads/1793290667.jpeg",
 "/uploads/1793290669.jpeg",
+"/uploads/1793390896.jpeg",
 "/uploads/1793290683.jpeg",
 "/uploads/1793290688.jpeg",
 "/uploads/1793290700.jpeg",
@@ -5170,6 +5181,7 @@
 "fotos": [
 "/uploads/1793290737.jpeg",
 "/uploads/1793290749.jpeg",
+"/uploads/1793418135.jpeg",
 "/uploads/1793290755.jpeg",
 "/uploads/1793290763.jpeg",
 "/uploads/1793290769.jpeg",
@@ -5218,6 +5230,7 @@
 "fotos": [
 "/uploads/1793290767.jpeg",
 "/uploads/1793290773.jpeg",
+"/uploads/1793391000.jpeg",
 "/uploads/1793290781.jpeg",
 "/uploads/1793290789.jpeg",
 "/uploads/1793290799.jpeg",
@@ -5357,6 +5370,9 @@
 "fotos": [
 "/uploads/1793290902.jpeg",
 "/uploads/1793290908.jpeg",
+"/uploads/1793537844.jpeg",
+"/uploads/1793537849.jpeg",
+"/uploads/1793537856.jpeg",
 "/uploads/1793290916.jpeg",
 "/uploads/1793290921.jpeg",
 "/uploads/1793290929.jpeg",
@@ -5381,6 +5397,7 @@
 "fotos": [
 "/uploads/1793290907.jpeg",
 "/uploads/1793290918.jpeg",
+"/uploads/1793537840.jpeg",
 "/uploads/1793290923.jpeg",
 "/uploads/1793290934.jpeg",
 "/uploads/1793290937.jpeg",
@@ -5405,6 +5422,7 @@
 "fotos": [
 "/uploads/1793290920.jpeg",
 "/uploads/1793290931.jpeg",
+"/uploads/1793391027.jpeg",
 "/uploads/1793290940.jpeg",
 "/uploads/1793290953.jpeg",
 "/uploads/1793290965.jpeg",
@@ -5452,7 +5470,8 @@
 "best_seller": true,
 "fotos": [
 "/uploads/1793290971.jpeg",
-"/uploads/1793290980.jpeg"
+"/uploads/1793290980.jpeg",
+"/uploads/1793391167.jpeg"
 ]
 },
 "22270": {
@@ -5471,6 +5490,7 @@
 "fotos": [
 "/uploads/1793290982.jpeg",
 "/uploads/1793290990.jpeg",
+"/uploads/1793391169.jpeg",
 "/uploads/1793291000.jpeg",
 "/uploads/1793291007.jpeg",
 "/uploads/1793291013.jpeg",
@@ -5549,17 +5569,7 @@
 ]
 },
 "22310": {
-"ean": "886895714341",
-"sku": "M50435416244",
 "marca": "Marchon NYC",
-"modelo": "M-5043",
-"cor": "Marrom",
-"material": "Acetato",
-"formato": "Borboleta",
-"sexo": "Feminino",
-"lente_mm": "54",
-"ponte_mm": "16",
-"haste_mm": "135",
 "fotos": [
 "/uploads/1793291055.jpeg",
 "/uploads/1793291066.jpeg",
@@ -5633,6 +5643,7 @@
 "fotos": [
 "/uploads/1793291156.jpeg",
 "/uploads/1793291168.jpeg",
+"/uploads/1793391172.jpeg",
 "/uploads/1793291171.jpeg",
 "/uploads/1793291181.jpeg",
 "/uploads/1793291189.jpeg",
@@ -6267,20 +6278,10 @@
 ]
 },
 "22640": {
-"ean": "886895733083",
-"sku": "NK7092N5514001",
 "marca": "Nike",
-"modelo": "Nike 7092",
-"cor": "Preto",
-"material": "Injetado",
-"formato": "Retangular",
-"sexo": "Masculino",
-"lente_mm": "55",
-"ponte_mm": "14",
-"haste_mm": "140",
-"best_seller": true,
 "fotos": [
-"/uploads/1793291663.jpeg"
+"/uploads/1793291663.jpeg",
+"/uploads/1793391174.jpeg"
 ]
 },
 "22650": {
@@ -6298,7 +6299,8 @@
 "best_seller": true,
 "fotos": [
 "/uploads/1793291666.jpeg",
-"/uploads/1793291672.jpeg"
+"/uploads/1793291672.jpeg",
+"/uploads/1793391272.jpeg"
 ]
 },
 "22660": {
@@ -6317,6 +6319,11 @@
 "fotos": [
 "/uploads/1793291674.jpeg",
 "/uploads/1793291684.jpeg",
+"/uploads/1793387819.jpeg",
+"/uploads/1793368040.jpeg",
+"/uploads/1793368048.jpeg",
+"/uploads/1793368057.jpeg",
+"/uploads/1793387821.jpeg",
 "/uploads/1793291690.jpeg",
 "/uploads/1793291697.jpeg",
 "/uploads/1793291709.jpeg",
@@ -6341,6 +6348,7 @@
 "fotos": [
 "/uploads/1793291681.jpeg",
 "/uploads/1793291689.jpeg",
+"/uploads/1793391274.jpeg",
 "/uploads/1793291696.jpeg",
 "/uploads/1793291708.jpeg",
 "/uploads/1793291712.jpeg",
@@ -6396,17 +6404,7 @@
 ]
 },
 "22700": {
-"ean": "886895727914",
-"sku": "NK74075118001",
 "marca": "Nike",
-"modelo": "Nike 7407",
-"cor": "Preto",
-"material": "Injetado",
-"formato": "Redondo",
-"sexo": "Feminino",
-"lente_mm": "51",
-"ponte_mm": "18",
-"haste_mm": "135",
 "fotos": [
 "/uploads/1793291744.jpeg",
 "/uploads/1793291751.jpeg",
@@ -6419,17 +6417,7 @@
 ]
 },
 "22710": {
-"ean": "886895727938",
-"sku": "NK74075118463",
 "marca": "Nike",
-"modelo": "Nike 7407",
-"cor": "Azul Trovão",
-"material": "Injetado",
-"formato": "Redondo",
-"sexo": "Feminino",
-"lente_mm": "51",
-"ponte_mm": "18",
-"haste_mm": "135",
 "fotos": [
 "/uploads/1793291763.jpeg",
 "/uploads/1793291765.jpeg",
@@ -6503,6 +6491,7 @@
 "fotos": [
 "/uploads/1793291817.jpeg",
 "/uploads/1793291826.jpeg",
+"/uploads/1793391276.jpeg",
 "/uploads/1793291833.jpeg",
 "/uploads/1793291844.jpeg",
 "/uploads/1793291853.jpeg",
@@ -6550,6 +6539,7 @@
 "fotos": [
 "/uploads/1793291850.jpeg",
 "/uploads/1793291865.jpeg",
+"/uploads/1793391431.jpeg",
 "/uploads/1793291878.jpeg",
 "/uploads/1793291883.jpeg",
 "/uploads/1793291894.jpeg",
@@ -7005,6 +6995,9 @@
 "fotos": [
 "/uploads/1793292213.jpeg",
 "/uploads/1793292225.jpeg",
+"/uploads/1793387823.jpeg",
+"/uploads/1793387830.jpeg",
+"/uploads/1793387837.jpeg",
 "/uploads/1793292229.jpeg",
 "/uploads/1793292237.jpeg",
 "/uploads/1793292245.jpeg",
@@ -7769,7 +7762,7 @@
 "haste_mm": "150",
 "best_seller": true,
 "fotos": [
-"/uploads/1793293228.jpeg"
+"/uploads/1793563244.jpeg"
 ]
 },
 "23330": {
@@ -8959,7 +8952,7 @@
 "ponte_mm": "18",
 "haste_mm": "140",
 "fotos": [
-"/uploads/1793303311.jpeg"
+"/uploads/1793563172.jpeg"
 ]
 },
 "23900": {
@@ -8976,7 +8969,7 @@
 "ponte_mm": "18",
 "haste_mm": "140",
 "fotos": [
-"/uploads/1793303326.jpeg"
+"/uploads/1793563178.jpeg"
 ]
 },
 "23910": {
@@ -8993,7 +8986,7 @@
 "ponte_mm": "18",
 "haste_mm": "140",
 "fotos": [
-"/uploads/1793303339.jpeg"
+"/uploads/1793563191.jpeg"
 ]
 },
 "23920": {
@@ -12278,7 +12271,7 @@
 "ponte_mm": "20",
 "haste_mm": "150",
 "fotos": [
-"/uploads/1793305374.jpeg"
+"/uploads/1793563208.jpeg"
 ]
 },
 "25460": {
@@ -12294,7 +12287,7 @@
 "ponte_mm": "20",
 "haste_mm": "150",
 "fotos": [
-"/uploads/1793305392.jpeg"
+"/uploads/1793563226.jpeg"
 ]
 },
 "25470": {
@@ -12310,7 +12303,7 @@
 "ponte_mm": "20",
 "haste_mm": "150",
 "fotos": [
-"/uploads/1793305406.jpeg"
+"/uploads/1793563315.jpeg"
 ]
 },
 "25480": {
@@ -12390,7 +12383,7 @@
 "ponte_mm": "25",
 "haste_mm": "145",
 "fotos": [
-"/uploads/1793305452.jpeg"
+"/uploads/1793563339.jpeg"
 ]
 },
 "25530": {
@@ -13433,6 +13426,3659 @@
 "/uploads/1793308623.jpeg",
 "/uploads/1793308634.jpeg",
 "/uploads/1793308643.jpeg"
+]
+},
+"26200": {
+"ean": "883901179330",
+"sku": "CKJ256275318300",
+"marca": "Calvin Klein Jeans",
+"modelo": "CKJ25627",
+"cor": "Verde",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406794.jpeg",
+"/uploads/1793406797.jpeg",
+"/uploads/1793406799.jpeg",
+"/uploads/1793406800.jpeg",
+"/uploads/1793406801.jpeg",
+"/uploads/1793406803.jpeg",
+"/uploads/1793406805.jpeg",
+"/uploads/1793406807.jpeg"
+]
+},
+"26210": {
+"ean": "883901178166",
+"sku": "CKJ256295617400",
+"marca": "Calvin Klein Jeans",
+"modelo": "CKJ25629",
+"cor": "Azul",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406804.jpeg",
+"/uploads/1793406810.jpeg",
+"/uploads/1793406811.jpeg",
+"/uploads/1793406813.jpeg",
+"/uploads/1793406814.jpeg",
+"/uploads/1793406815.jpeg",
+"/uploads/1793406817.jpeg",
+"/uploads/1793406818.jpeg"
+]
+},
+"26220": {
+"ean": "883901178043",
+"sku": "CKJ256325218606",
+"marca": "Calvin Klein Jeans",
+"modelo": "CKJ25632",
+"cor": "Vinho e Rosé",
+"material": "Injetado",
+"formato": "Borboleta",
+"sexo": "Feminino",
+"lente_mm": "52",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406821.jpeg",
+"/uploads/1793406823.jpeg",
+"/uploads/1793406824.jpeg",
+"/uploads/1793406826.jpeg",
+"/uploads/1793406827.jpeg",
+"/uploads/1793406828.jpeg",
+"/uploads/1793406830.jpeg",
+"/uploads/1793406834.jpeg"
+]
+},
+"26230": {
+"ean": "883901164497",
+"sku": "CKJ24606S5418208",
+"marca": "Calvin Klein Jeans",
+"modelo": "CKJ24606S",
+"cor": "Marrom e Violet",
+"cor_lente": "Violet",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Feminino",
+"lente_mm": "54",
+"ponte_mm": "18",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793563184.jpeg"
+]
+},
+"26240": {
+"ean": "883901172805",
+"sku": "CKJ25202S5617016",
+"marca": "Calvin Klein Jeans",
+"modelo": "CKJ25202S",
+"cor": "Azul",
+"cor_lente": "Cinza",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Unissex",
+"lente_mm": "56",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406835.jpeg",
+"/uploads/1793406838.jpeg",
+"/uploads/1793406841.jpeg",
+"/uploads/1793406843.jpeg",
+"/uploads/1793406844.jpeg",
+"/uploads/1793406846.jpeg",
+"/uploads/1793406853.jpeg",
+"/uploads/1793406861.jpeg"
+]
+},
+"26250": {
+"ean": "883901179033",
+"sku": "CKJ25619S5419001",
+"marca": "Calvin Klein Jeans",
+"modelo": "CKJ25619S",
+"cor": "Preto",
+"cor_lente": "Cinza",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Unissex",
+"lente_mm": "54",
+"ponte_mm": "19",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406855.jpeg",
+"/uploads/1793406864.jpeg",
+"/uploads/1793406865.jpeg",
+"/uploads/1793406868.jpeg",
+"/uploads/1793406871.jpeg",
+"/uploads/1793406872.jpeg",
+"/uploads/1793406875.jpeg",
+"/uploads/1793406883.jpeg"
+]
+},
+"26260": {
+"ean": "886895672412",
+"sku": "CV30265120001",
+"marca": "Converse",
+"modelo": "CV3026",
+"cor": "Preto",
+"material": "Metal",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "20",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406878.jpeg"
+]
+},
+"26270": {
+"ean": "886895672436",
+"sku": "CV30265120440",
+"marca": "Converse",
+"modelo": "CV3026",
+"cor": "Azul Teal e Prata",
+"material": "Metal",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "20",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406889.jpeg"
+]
+},
+"26280": {
+"ean": "886895758666",
+"sku": "CV5067N5417022",
+"marca": "Converse",
+"modelo": "CV5067",
+"cor": "Cinza Translúcido",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "54",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406894.jpeg",
+"/uploads/1793406899.jpeg",
+"/uploads/1793406901.jpeg",
+"/uploads/1793406908.jpeg",
+"/uploads/1793406909.jpeg",
+"/uploads/1793406910.jpeg",
+"/uploads/1793406941.jpeg",
+"/uploads/1793406955.jpeg"
+]
+},
+"26290": {
+"ean": "886895639538",
+"sku": "CV50975317244",
+"marca": "Converse",
+"modelo": "CV5097",
+"cor": "Tartaruga",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406948.jpeg"
+]
+},
+"26300": {
+"ean": "886895650441",
+"sku": "CV51055217001",
+"marca": "Converse",
+"modelo": "CV5105",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Feminino",
+"lente_mm": "52",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793406958.jpeg"
+]
+},
+"26310": {
+"ean": "886895691628",
+"sku": "CV51175217312",
+"marca": "Converse",
+"modelo": "CV5117",
+"cor": "Cargo Translúcido",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "52",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406966.jpeg"
+]
+},
+"26320": {
+"ean": "886895671989",
+"sku": "CV80095317001",
+"marca": "Converse",
+"modelo": "CV8009",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406976.jpeg"
+]
+},
+"26330": {
+"ean": "886895671996",
+"sku": "CV80095317313",
+"marca": "Converse",
+"modelo": "CV8009",
+"cor": "Utility Translúcido",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406988.jpeg"
+]
+},
+"26340": {
+"ean": "886895672313",
+"sku": "CV80095317602",
+"marca": "Converse",
+"modelo": "CV8009",
+"cor": "Bloodstone Transl.",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407004.jpeg"
+]
+},
+"26350": {
+"ean": "886895691697",
+"sku": "CV570S5122050",
+"marca": "Converse",
+"modelo": "CV570S",
+"cor": "Cristal Cinza",
+"cor_lente": "Vermelho Mirror",
+"material": "Injetado",
+"formato": "Quadrado",
+"sexo": "Unissex",
+"lente_mm": "51",
+"ponte_mm": "22",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407012.jpeg",
+"/uploads/1793407026.jpeg",
+"/uploads/1793407030.jpeg",
+"/uploads/1793407039.jpeg",
+"/uploads/1793407052.jpeg",
+"/uploads/1793407053.jpeg",
+"/uploads/1793407055.jpeg",
+"/uploads/1793407065.jpeg"
+]
+},
+"26360": {
+"ean": "886895620284",
+"sku": "DK50585217001",
+"marca": "DKNY",
+"modelo": "DK5058",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Feminino",
+"lente_mm": "52",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407080.jpeg"
+]
+},
+"26370": {
+"ean": "886895620314",
+"sku": "DK50585217505",
+"marca": "DKNY",
+"modelo": "DK5058",
+"cor": "Ameixa e Tartaruga",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Feminino",
+"lente_mm": "52",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407077.jpeg"
+]
+},
+"26380": {
+"ean": "886895637374",
+"sku": "DK50655218001",
+"marca": "DKNY",
+"modelo": "DK5065",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Feminino",
+"lente_mm": "52",
+"ponte_mm": "18",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407105.jpeg"
+]
+},
+"26390": {
+"ean": "886895637404",
+"sku": "DK50655218550",
+"marca": "DKNY",
+"modelo": "DK5065",
+"cor": "Orquídea Transl.",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Feminino",
+"lente_mm": "52",
+"ponte_mm": "18",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407101.jpeg"
+]
+},
+"26400": {
+"ean": "886895671088",
+"sku": "DK50715217002",
+"marca": "DKNY",
+"modelo": "DK5071",
+"cor": "Preto e Marrom",
+"cor_lente": "Marrom",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Feminino",
+"lente_mm": "52",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407132.jpeg"
+]
+},
+"26410": {
+"ean": "886895671200",
+"sku": "DK50715217425",
+"marca": "DKNY",
+"modelo": "DK5071",
+"cor": "Triple Blueberry",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Feminino",
+"lente_mm": "52",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407124.jpeg"
+]
+},
+"26420": {
+"ean": "886895695329",
+"sku": "DK50755217010",
+"marca": "DKNY",
+"modelo": "DK5075",
+"cor": "Preto e Turquesa",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Feminino",
+"lente_mm": "52",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407149.jpeg"
+]
+},
+"26430": {
+"ean": "886895701587",
+"sku": "DK50785318015",
+"marca": "DKNY",
+"modelo": "DK5078",
+"cor": "Cristal",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Feminino",
+"lente_mm": "53",
+"ponte_mm": "18",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407156.jpeg",
+"/uploads/1793407173.jpeg",
+"/uploads/1793407177.jpeg",
+"/uploads/1793407180.jpeg",
+"/uploads/1793407190.jpeg",
+"/uploads/1793407198.jpeg",
+"/uploads/1793407205.jpeg",
+"/uploads/1793407207.jpeg"
+]
+},
+"26440": {
+"ean": "886895726504",
+"sku": "DK50835416310",
+"marca": "DKNY",
+"modelo": "DK5083",
+"cor": "Sage Translúcido",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Feminino",
+"lente_mm": "54",
+"ponte_mm": "16",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407217.jpeg",
+"/uploads/1793407227.jpeg",
+"/uploads/1793407232.jpeg",
+"/uploads/1793407236.jpeg",
+"/uploads/1793407245.jpeg",
+"/uploads/1793407251.jpeg",
+"/uploads/1793407252.jpeg",
+"/uploads/1793407255.jpeg"
+]
+},
+"26450": {
+"ean": "886895726696",
+"sku": "DK50955316001",
+"marca": "DKNY",
+"modelo": "DK5095",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Feminino",
+"lente_mm": "53",
+"ponte_mm": "16",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407267.jpeg"
+]
+},
+"26460": {
+"ean": "886895671026",
+"sku": "DK70135416425",
+"marca": "DKNY",
+"modelo": "DK7013",
+"cor": "Cristal",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Feminino",
+"lente_mm": "54",
+"ponte_mm": "16",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407276.jpeg"
+]
+},
+"26470": {
+"ean": "886895671033",
+"sku": "DK70135416520",
+"marca": "DKNY",
+"modelo": "DK7013",
+"cor": "Amethyst Translúcido",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Feminino",
+"lente_mm": "54",
+"ponte_mm": "16",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407293.jpeg"
+]
+},
+"26480": {
+"ean": "886895671279",
+"sku": "DK117S5715040",
+"marca": "DKNY",
+"modelo": "DK117S",
+"cor": "Prata",
+"cor_lente": "Violet",
+"material": "Metal",
+"formato": "Aviador",
+"sexo": "Feminino",
+"lente_mm": "57",
+"ponte_mm": "15",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407305.jpeg"
+]
+},
+"26490": {
+"ean": "886895671293",
+"sku": "DK117S5715070",
+"marca": "DKNY",
+"modelo": "DK117S",
+"cor": "Cinza",
+"cor_lente": "Azul",
+"material": "Metal",
+"formato": "Aviador",
+"sexo": "Feminino",
+"lente_mm": "57",
+"ponte_mm": "15",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407311.jpeg"
+]
+},
+"26500": {
+"ean": "886895620390",
+"sku": "DK547S5516237",
+"marca": "DKNY",
+"modelo": "DK547S",
+"cor": "Tartaruga",
+"material": "Acetato",
+"formato": "Gatinho",
+"sexo": "Feminino",
+"lente_mm": "55",
+"ponte_mm": "16",
+"haste_mm": "135",
+"fotos": [
+"/uploads/1793407328.jpeg"
+]
+},
+"26510": {
+"ean": "886895670944",
+"sku": "DO50165320106",
+"marca": "Donna",
+"modelo": "DO5016",
+"cor": "Tartaruga Leite",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Feminino",
+"lente_mm": "53",
+"ponte_mm": "20",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407338.jpeg",
+"/uploads/1793407347.jpeg",
+"/uploads/1793407352.jpeg",
+"/uploads/1793407363.jpeg",
+"/uploads/1793407372.jpeg",
+"/uploads/1793407374.jpeg",
+"/uploads/1793407378.jpeg",
+"/uploads/1793407386.jpeg"
+]
+},
+"26520": {
+"ean": "886895694803",
+"sku": "DO515S5319010",
+"marca": "Donna",
+"modelo": "DO515S",
+"cor": "Preto",
+"cor_lente": "Smtruee",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Feminino",
+"lente_mm": "53",
+"ponte_mm": "19",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407394.jpeg",
+"/uploads/1793407401.jpeg",
+"/uploads/1793407408.jpeg",
+"/uploads/1793407418.jpeg",
+"/uploads/1793407422.jpeg",
+"/uploads/1793407423.jpeg",
+"/uploads/1793407435.jpeg",
+"/uploads/1793407446.jpeg"
+]
+},
+"26530": {
+"ean": "886895694834",
+"sku": "DO516S5221050",
+"marca": "Donna",
+"modelo": "DO516S",
+"cor": "Cinza",
+"cor_lente": "Smtruee",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Feminino",
+"lente_mm": "52",
+"ponte_mm": "21",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407441.jpeg",
+"/uploads/1793407461.jpeg",
+"/uploads/1793407465.jpeg",
+"/uploads/1793407468.jpeg",
+"/uploads/1793407470.jpeg",
+"/uploads/1793407482.jpeg",
+"/uploads/1793407491.jpeg",
+"/uploads/1793407492.jpeg"
+]
+},
+"26540": {
+"ean": "886895658119",
+"sku": "SF25915715027",
+"marca": "Ferragamo",
+"modelo": "SF2591",
+"cor": "Cinza",
+"cor_lente": "Color 1",
+"material": "Titânio",
+"formato": "Navegador",
+"sexo": "Masculino",
+"lente_mm": "57",
+"ponte_mm": "15",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407490.jpeg",
+"/uploads/1793407514.jpeg",
+"/uploads/1793407517.jpeg",
+"/uploads/1793407521.jpeg",
+"/uploads/1793407526.jpeg",
+"/uploads/1793407540.jpeg",
+"/uploads/1793407541.jpeg",
+"/uploads/1793407546.jpeg"
+]
+},
+"26550": {
+"ean": "886895657389",
+"sku": "SF2032S5519242",
+"marca": "Ferragamo",
+"modelo": "SF2032S",
+"cor": "Tartaruga",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Feminino",
+"lente_mm": "55",
+"ponte_mm": "19",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407550.jpeg"
+]
+},
+"26560": {
+"ean": "886895657419",
+"sku": "SF2032S5519600",
+"marca": "Ferragamo",
+"modelo": "SF2032S",
+"cor": "Vermelho",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Feminino",
+"lente_mm": "55",
+"ponte_mm": "19",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407563.jpeg"
+]
+},
+"26570": {
+"ean": "886895755757",
+"sku": "L2271N5619033",
+"marca": "Lacoste",
+"modelo": "L2271",
+"cor": "Cinza",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "19",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407576.jpeg",
+"/uploads/1793407588.jpeg",
+"/uploads/1793407590.jpeg",
+"/uploads/1793407599.jpeg",
+"/uploads/1793407609.jpeg",
+"/uploads/1793407614.jpeg",
+"/uploads/1793407617.jpeg",
+"/uploads/1793407625.jpeg"
+]
+},
+"26580": {
+"ean": "886895755764",
+"sku": "L2271N5619424",
+"marca": "Lacoste",
+"modelo": "L2271",
+"cor": "Azul",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "19",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407632.jpeg",
+"/uploads/1793407635.jpeg",
+"/uploads/1793407653.jpeg",
+"/uploads/1793407659.jpeg",
+"/uploads/1793407660.jpeg",
+"/uploads/1793407662.jpeg",
+"/uploads/1793407679.jpeg",
+"/uploads/1793407680.jpeg"
+]
+},
+"26590": {
+"ean": "886895512763",
+"sku": "473595619001",
+"marca": "Lacoste",
+"modelo": "L2276",
+"cor": "Preto",
+"material": "Metal",
+"formato": "Borboleta",
+"sexo": "Feminino",
+"lente_mm": "56",
+"ponte_mm": "19",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407683.jpeg",
+"/uploads/1793407701.jpeg",
+"/uploads/1793407704.jpeg"
+]
+},
+"26600": {
+"ean": "886895740876",
+"sku": "L2298N5617002",
+"marca": "Lacoste",
+"modelo": "L2298",
+"cor": "Preto",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407707.jpeg",
+"/uploads/1793407729.jpeg",
+"/uploads/1793407731.jpeg",
+"/uploads/1793407734.jpeg",
+"/uploads/1793407744.jpeg",
+"/uploads/1793407749.jpeg",
+"/uploads/1793407753.jpeg",
+"/uploads/1793407755.jpeg"
+]
+},
+"26610": {
+"ean": "886895740906",
+"sku": "L2298N5617424",
+"marca": "Lacoste",
+"modelo": "L2298",
+"cor": "Azul",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407762.jpeg",
+"/uploads/1793407775.jpeg",
+"/uploads/1793407779.jpeg",
+"/uploads/1793407785.jpeg",
+"/uploads/1793407800.jpeg",
+"/uploads/1793407801.jpeg",
+"/uploads/1793407807.jpeg",
+"/uploads/1793407812.jpeg"
+]
+},
+"26620": {
+"ean": "886895776608",
+"sku": "L23195718301",
+"marca": "Lacoste",
+"modelo": "L2319",
+"cor": "Verde",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "57",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407824.jpeg",
+"/uploads/1793407826.jpeg",
+"/uploads/1793407840.jpeg",
+"/uploads/1793407847.jpeg",
+"/uploads/1793407853.jpeg",
+"/uploads/1793407855.jpeg",
+"/uploads/1793407863.jpeg",
+"/uploads/1793407873.jpeg"
+]
+},
+"26630": {
+"ean": "886895776615",
+"sku": "L23195718410",
+"marca": "Lacoste",
+"modelo": "L2319",
+"cor": "Azul",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "57",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793406859.jpeg",
+"/uploads/1793406862.jpeg",
+"/uploads/1793406866.jpeg",
+"/uploads/1793406869.jpeg",
+"/uploads/1793406874.jpeg",
+"/uploads/1793406876.jpeg",
+"/uploads/1793406881.jpeg",
+"/uploads/1793406882.jpeg"
+]
+},
+"26640": {
+"ean": "886895738743",
+"sku": "L2960N5619035",
+"marca": "Lacoste",
+"modelo": "L2960",
+"cor": "Cinza",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "19",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406886.jpeg",
+"/uploads/1793406892.jpeg",
+"/uploads/1793406895.jpeg",
+"/uploads/1793406898.jpeg",
+"/uploads/1793406902.jpeg",
+"/uploads/1793406905.jpeg",
+"/uploads/1793406906.jpeg",
+"/uploads/1793406934.jpeg"
+]
+},
+"26650": {
+"ean": "886895738767",
+"sku": "L2960N5619410",
+"marca": "Lacoste",
+"modelo": "L2960",
+"cor": "Azul",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "19",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406937.jpeg",
+"/uploads/1793406947.jpeg",
+"/uploads/1793406951.jpeg",
+"/uploads/1793406952.jpeg",
+"/uploads/1793406959.jpeg",
+"/uploads/1793406961.jpeg",
+"/uploads/1793406974.jpeg",
+"/uploads/1793406979.jpeg"
+]
+},
+"26660": {
+"ean": "886895738804",
+"sku": "L2964N5120001",
+"marca": "Lacoste",
+"modelo": "L2964",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "20",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406982.jpeg",
+"/uploads/1793406999.jpeg",
+"/uploads/1793407006.jpeg",
+"/uploads/1793407010.jpeg",
+"/uploads/1793407017.jpeg",
+"/uploads/1793407025.jpeg",
+"/uploads/1793407029.jpeg",
+"/uploads/1793407035.jpeg"
+]
+},
+"26670": {
+"ean": "886895759595",
+"sku": "L2975N5418601",
+"marca": "Lacoste",
+"modelo": "L2975",
+"cor": "Vinho Translúcido",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "54",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407042.jpeg"
+]
+},
+"26680": {
+"ean": "886895738521",
+"sku": "L2986N5517035",
+"marca": "Lacoste",
+"modelo": "L2986",
+"cor": "Cinza",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "55",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407056.jpeg",
+"/uploads/1793407067.jpeg",
+"/uploads/1793407074.jpeg",
+"/uploads/1793407076.jpeg",
+"/uploads/1793407086.jpeg",
+"/uploads/1793407087.jpeg",
+"/uploads/1793407099.jpeg",
+"/uploads/1793407102.jpeg"
+]
+},
+"26690": {
+"ean": "886895721295",
+"sku": "L40055616035",
+"marca": "Lacoste",
+"modelo": "L4005",
+"cor": "Cinza",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "16",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407106.jpeg",
+"/uploads/1793407123.jpeg",
+"/uploads/1793407126.jpeg",
+"/uploads/1793407127.jpeg",
+"/uploads/1793407136.jpeg",
+"/uploads/1793407148.jpeg",
+"/uploads/1793407151.jpeg",
+"/uploads/1793407154.jpeg"
+]
+},
+"26700": {
+"ean": "886895779883",
+"sku": "L40075417410",
+"marca": "Lacoste",
+"modelo": "L4007",
+"cor": "Azul",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "54",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407152.jpeg",
+"/uploads/1793407174.jpeg",
+"/uploads/1793407179.jpeg",
+"/uploads/1793407182.jpeg",
+"/uploads/1793407189.jpeg",
+"/uploads/1793407199.jpeg",
+"/uploads/1793407200.jpeg",
+"/uploads/1793407203.jpeg"
+]
+},
+"26710": {
+"ean": "886895776875",
+"sku": "L40155517001",
+"marca": "Lacoste",
+"modelo": "L4015",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Borboleta",
+"sexo": "Feminino",
+"lente_mm": "55",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407214.jpeg",
+"/uploads/1793407225.jpeg",
+"/uploads/1793407226.jpeg",
+"/uploads/1793407238.jpeg",
+"/uploads/1793407241.jpeg",
+"/uploads/1793407242.jpeg",
+"/uploads/1793407250.jpeg",
+"/uploads/1793407261.jpeg"
+]
+},
+"26720": {
+"ean": "886895776899",
+"sku": "L40155517341",
+"marca": "Lacoste",
+"modelo": "L4015",
+"cor": "Sage Translúcido",
+"material": "Injetado",
+"formato": "Borboleta",
+"sexo": "Feminino",
+"lente_mm": "55",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407270.jpeg",
+"/uploads/1793407274.jpeg",
+"/uploads/1793407286.jpeg",
+"/uploads/1793407291.jpeg",
+"/uploads/1793407292.jpeg",
+"/uploads/1793407298.jpeg",
+"/uploads/1793407309.jpeg",
+"/uploads/1793407317.jpeg"
+]
+},
+"26730": {
+"ean": "886895805988",
+"sku": "L40255317601",
+"marca": "Lacoste",
+"modelo": "L4025",
+"cor": "Vinho Translúcido",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Feminino",
+"lente_mm": "53",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407312.jpeg",
+"/uploads/1793407335.jpeg",
+"/uploads/1793407337.jpeg",
+"/uploads/1793407341.jpeg",
+"/uploads/1793407353.jpeg",
+"/uploads/1793407359.jpeg",
+"/uploads/1793407362.jpeg",
+"/uploads/1793407365.jpeg"
+]
+},
+"26740": {
+"ean": "886895806008",
+"sku": "L40265518301",
+"marca": "Lacoste",
+"modelo": "L4026",
+"cor": "Verde",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "55",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407375.jpeg",
+"/uploads/1793407385.jpeg",
+"/uploads/1793407388.jpeg",
+"/uploads/1793407399.jpeg",
+"/uploads/1793407406.jpeg",
+"/uploads/1793407407.jpeg",
+"/uploads/1793407410.jpeg",
+"/uploads/1793407425.jpeg"
+]
+},
+"26750": {
+"ean": "886895806015",
+"sku": "L40265518410",
+"marca": "Lacoste",
+"modelo": "L4026",
+"cor": "Tranparent Azul",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "55",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407431.jpeg",
+"/uploads/1793407437.jpeg",
+"/uploads/1793407448.jpeg",
+"/uploads/1793407453.jpeg",
+"/uploads/1793407456.jpeg",
+"/uploads/1793407458.jpeg",
+"/uploads/1793407474.jpeg",
+"/uploads/1793407480.jpeg"
+]
+},
+"26760": {
+"ean": "886895804790",
+"sku": "L40285714230",
+"marca": "Lacoste",
+"modelo": "L4028",
+"cor": "Havana",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "57",
+"ponte_mm": "14",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407477.jpeg",
+"/uploads/1793407500.jpeg",
+"/uploads/1793407503.jpeg",
+"/uploads/1793407505.jpeg",
+"/uploads/1793407508.jpeg",
+"/uploads/1793407518.jpeg",
+"/uploads/1793407528.jpeg",
+"/uploads/1793407529.jpeg"
+]
+},
+"26770": {
+"ean": "886895805728",
+"sku": "L40295220264",
+"marca": "Lacoste",
+"modelo": "L4029",
+"cor": "Bege Translúcido",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "52",
+"ponte_mm": "20",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407530.jpeg",
+"/uploads/1793407553.jpeg",
+"/uploads/1793407555.jpeg",
+"/uploads/1793407556.jpeg",
+"/uploads/1793407566.jpeg",
+"/uploads/1793407577.jpeg",
+"/uploads/1793407580.jpeg",
+"/uploads/1793407582.jpeg"
+]
+},
+"26780": {
+"ean": "886895805674",
+"sku": "L40305516038",
+"marca": "Lacoste",
+"modelo": "L4030",
+"cor": "Cinza",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "55",
+"ponte_mm": "16",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407592.jpeg",
+"/uploads/1793407598.jpeg",
+"/uploads/1793407600.jpeg",
+"/uploads/1793407612.jpeg",
+"/uploads/1793407621.jpeg",
+"/uploads/1793407622.jpeg",
+"/uploads/1793407623.jpeg",
+"/uploads/1793407637.jpeg"
+]
+},
+"26790": {
+"ean": "886895754460",
+"sku": "L6010SN5517424",
+"marca": "Lacoste",
+"modelo": "L6010",
+"cor": "Azul",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "55",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407645.jpeg",
+"/uploads/1793407648.jpeg",
+"/uploads/1793407658.jpeg",
+"/uploads/1793407667.jpeg",
+"/uploads/1793407670.jpeg",
+"/uploads/1793407674.jpeg",
+"/uploads/1793407684.jpeg",
+"/uploads/1793407697.jpeg"
+]
+},
+"26800": {
+"ean": "886895740029",
+"sku": "L6008SN5319002",
+"marca": "Lacoste",
+"modelo": "L6008S",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Oval",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "19",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407691.jpeg",
+"/uploads/1793407706.jpeg",
+"/uploads/1793407715.jpeg",
+"/uploads/1793407716.jpeg",
+"/uploads/1793407717.jpeg",
+"/uploads/1793407726.jpeg",
+"/uploads/1793407737.jpeg",
+"/uploads/1793407738.jpeg"
+]
+},
+"26810": {
+"ean": "886895757799",
+"sku": "L6030SN5021001",
+"marca": "Lacoste",
+"modelo": "L6030S",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "50",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407743.jpeg",
+"/uploads/1793407765.jpeg",
+"/uploads/1793407766.jpeg",
+"/uploads/1793407767.jpeg",
+"/uploads/1793407776.jpeg",
+"/uploads/1793407786.jpeg",
+"/uploads/1793407789.jpeg",
+"/uploads/1793407791.jpeg"
+]
+},
+"26820": {
+"ean": "886895756839",
+"sku": "L6052SN5121001",
+"marca": "Lacoste",
+"modelo": "L6052S",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407805.jpeg",
+"/uploads/1793407810.jpeg",
+"/uploads/1793407818.jpeg",
+"/uploads/1793407827.jpeg",
+"/uploads/1793407834.jpeg",
+"/uploads/1793407837.jpeg",
+"/uploads/1793407839.jpeg",
+"/uploads/1793407852.jpeg"
+]
+},
+"26830": {
+"ean": "886895777407",
+"sku": "L6088S5420001",
+"marca": "Lacoste",
+"modelo": "L6088S",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "54",
+"ponte_mm": "20",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407860.jpeg",
+"/uploads/1793407861.jpeg",
+"/uploads/1793407875.jpeg",
+"/uploads/1793407877.jpeg",
+"/uploads/1793407880.jpeg",
+"/uploads/1793407887.jpeg",
+"/uploads/1793407889.jpeg",
+"/uploads/1793407891.jpeg"
+]
+},
+"26840": {
+"ean": "886895805162",
+"sku": "L6105S5121410",
+"marca": "Lacoste",
+"modelo": "L6105S",
+"cor": "Azul",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793406963.jpeg",
+"/uploads/1793406965.jpeg",
+"/uploads/1793406973.jpeg",
+"/uploads/1793406989.jpeg",
+"/uploads/1793406992.jpeg",
+"/uploads/1793406995.jpeg",
+"/uploads/1793407001.jpeg",
+"/uploads/1793407018.jpeg"
+]
+},
+"26850": {
+"ean": "886895758383",
+"sku": "L916SN5021001",
+"marca": "Lacoste",
+"modelo": "L916S",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "50",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407015.jpeg",
+"/uploads/1793407023.jpeg"
+]
+},
+"26860": {
+"ean": "886895746274",
+"sku": "M4019N5216001",
+"marca": "Marchon NYC",
+"modelo": "M-4019",
+"cor": "Preto",
+"cor_lente": "Transparente",
+"material": "Metal",
+"formato": "Gatinho",
+"sexo": "Feminino",
+"lente_mm": "52",
+"ponte_mm": "16",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407037.jpeg",
+"/uploads/1793407044.jpeg",
+"/uploads/1793407048.jpeg",
+"/uploads/1793407063.jpeg",
+"/uploads/1793407064.jpeg",
+"/uploads/1793407068.jpeg",
+"/uploads/1793407073.jpeg",
+"/uploads/1793407092.jpeg"
+]
+},
+"26870": {
+"ean": "886895750400",
+"sku": "M5008N5316035",
+"marca": "Marchon NYC",
+"modelo": "M-5008",
+"cor": "Cinza",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Feminino",
+"lente_mm": "53",
+"ponte_mm": "16",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407089.jpeg",
+"/uploads/1793407098.jpeg"
+]
+},
+"26880": {
+"ean": "886895683432",
+"sku": "M85165019244",
+"marca": "Marchon NYC",
+"modelo": "M-8516",
+"cor": "Tartaruga",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "50",
+"ponte_mm": "19",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407118.jpeg"
+]
+},
+"26890": {
+"ean": "886895733571",
+"sku": "NK7280N5020422",
+"marca": "Nike",
+"modelo": "Nike 7280",
+"cor": "Azul",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "50",
+"ponte_mm": "20",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407114.jpeg"
+]
+},
+"26900": {
+"ean": "886895753524",
+"sku": "NK8159N5917302",
+"marca": "Nike",
+"modelo": "Nike 8159",
+"cor": "Verde",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "59",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407137.jpeg",
+"/uploads/1793407140.jpeg",
+"/uploads/1793407142.jpeg",
+"/uploads/1793407161.jpeg",
+"/uploads/1793407162.jpeg",
+"/uploads/1793407165.jpeg",
+"/uploads/1793407168.jpeg",
+"/uploads/1793407186.jpeg"
+]
+},
+"26910": {
+"ean": "886895694247",
+"sku": "NK81845816070",
+"marca": "Nike",
+"modelo": "Nike 8184",
+"cor": "Cinza",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "58",
+"ponte_mm": "16",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407195.jpeg"
+]
+},
+"26920": {
+"ean": "886895694254",
+"sku": "NK81845816302",
+"marca": "Nike",
+"modelo": "Nike 8184",
+"cor": "Verde",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "58",
+"ponte_mm": "16",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407193.jpeg",
+"/uploads/1793407211.jpeg",
+"/uploads/1793407216.jpeg",
+"/uploads/1793407219.jpeg",
+"/uploads/1793407229.jpeg",
+"/uploads/1793407230.jpeg",
+"/uploads/1793407239.jpeg",
+"/uploads/1793407244.jpeg"
+]
+},
+"26930": {
+"ean": "886895557917",
+"sku": "P30175317450",
+"marca": "Pure",
+"modelo": "P-3017",
+"cor": "Tartaruga",
+"material": "Injetado",
+"formato": "Gatinho",
+"sexo": "Feminino",
+"lente_mm": "53",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407254.jpeg"
+]
+},
+"26940": {
+"ean": "886895659710",
+"sku": "P60045417021",
+"marca": "Pure",
+"modelo": "P-6004",
+"cor": "Cinza",
+"material": "Acetato",
+"formato": "Aviador",
+"sexo": "Unissex",
+"lente_mm": "54",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407263.jpeg"
+]
+},
+"26950": {
+"ean": "886895659734",
+"sku": "P60045417320",
+"marca": "Pure",
+"modelo": "P-6004",
+"cor": "Verde Elétrico",
+"material": "Acetato",
+"formato": "Aviador",
+"sexo": "Unissex",
+"lente_mm": "54",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407277.jpeg"
+]
+},
+"26960": {
+"ean": "886895659741",
+"sku": "P60045417422",
+"marca": "Pure",
+"modelo": "P-6004",
+"cor": "Azul",
+"material": "Acetato",
+"formato": "Aviador",
+"sexo": "Unissex",
+"lente_mm": "54",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407288.jpeg"
+]
+},
+"26970": {
+"ean": "886895659758",
+"sku": "P60045417671",
+"marca": "Pure",
+"modelo": "P-6004",
+"cor": "Rosa",
+"material": "Acetato",
+"formato": "Aviador",
+"sexo": "Unissex",
+"lente_mm": "54",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407303.jpeg"
+]
+},
+"26980": {
+"ean": "886895659840",
+"sku": "P70005218747",
+"marca": "Pure",
+"modelo": "P-7000",
+"cor": "Verde",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Feminino",
+"lente_mm": "52",
+"ponte_mm": "18",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407318.jpeg"
+]
+},
+"26990": {
+"ean": "886895659864",
+"sku": "P70025317524",
+"marca": "Pure",
+"modelo": "P-7002",
+"cor": "Roxo",
+"material": "Acetato",
+"formato": "Gatinho",
+"sexo": "Feminino",
+"lente_mm": "53",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407325.jpeg"
+]
+},
+"27000": {
+"ean": "886895659888",
+"sku": "P70025317822",
+"marca": "Pure",
+"modelo": "P-7002",
+"cor": "Laranja",
+"material": "Acetato",
+"formato": "Gatinho",
+"sexo": "Feminino",
+"lente_mm": "53",
+"ponte_mm": "17",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407340.jpeg"
+]
+},
+"27010": {
+"ean": "886895669863",
+"sku": "P70064722020",
+"marca": "Pure",
+"modelo": "P-7006",
+"cor": "Cinza",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Unissex",
+"lente_mm": "47",
+"ponte_mm": "22",
+"haste_mm": "140",
+"fotos": [
+"/uploads/1793407350.jpeg"
+]
+},
+"27020": {
+"ean": "7899898900003",
+"sku": "RSV21026121001",
+"marca": "Reserva",
+"modelo": "RSV2102",
+"cor": "Preto",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "61",
+"ponte_mm": "21",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407361.jpeg"
+]
+},
+"27030": {
+"ean": "7899898900072",
+"sku": "RSV21045918033",
+"marca": "Reserva",
+"modelo": "RSV2104",
+"cor": "Grafite",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "59",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407371.jpeg"
+]
+},
+"27040": {
+"ean": "7899898900089",
+"sku": "RSV21045918424",
+"marca": "Reserva",
+"modelo": "RSV2104",
+"cor": "Azul",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "59",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407383.jpeg"
+]
+},
+"27050": {
+"ean": "7899898901970",
+"sku": "RSV21054923045",
+"marca": "Reserva",
+"modelo": "RSV2105",
+"cor": "Prata Fosco",
+"material": "Metal",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407395.jpeg"
+]
+},
+"27060": {
+"ean": "7899898901987",
+"sku": "RSV21054923714",
+"marca": "Reserva",
+"modelo": "RSV2105",
+"cor": "Dourado Fosco",
+"material": "Metal",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407413.jpeg"
+]
+},
+"27070": {
+"ean": "7899898902724",
+"sku": "RSV21065319002",
+"marca": "Reserva",
+"modelo": "RSV2106",
+"cor": "Preto Fosco",
+"material": "Metal",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "19",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407420.jpeg"
+]
+},
+"27080": {
+"ean": "7899898902731",
+"sku": "RSV21065319413",
+"marca": "Reserva",
+"modelo": "RSV2106",
+"cor": "Azul Marinho Fosco",
+"material": "Metal",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "19",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407432.jpeg"
+]
+},
+"27090": {
+"ean": "7899898902755",
+"sku": "RSV21065319714",
+"marca": "Reserva",
+"modelo": "RSV2106",
+"cor": "Dourado Fosco",
+"material": "Metal",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "19",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407443.jpeg"
+]
+},
+"27100": {
+"ean": "7899898902847",
+"sku": "RSV21074823710",
+"marca": "Reserva",
+"modelo": "RSV2107",
+"cor": "Dourado Havana",
+"material": "Metal",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "48",
+"ponte_mm": "23",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407459.jpeg"
+]
+},
+"27110": {
+"ean": "7899898902892",
+"sku": "RSV21085519004",
+"marca": "Reserva",
+"modelo": "RSV2108",
+"cor": "Preto Havana Fosco",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "55",
+"ponte_mm": "19",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407471.jpeg"
+]
+},
+"27120": {
+"ean": "7899898902915",
+"sku": "RSV21085519035",
+"marca": "Reserva",
+"modelo": "RSV2108",
+"cor": "Grafite Fosco",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "55",
+"ponte_mm": "19",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407485.jpeg"
+]
+},
+"27130": {
+"ean": "7899898902779",
+"sku": "RSV21095920045",
+"marca": "Reserva",
+"modelo": "RSV2109",
+"cor": "Prata Fosco",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "59",
+"ponte_mm": "20",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407494.jpeg"
+]
+},
+"27140": {
+"ean": "7899898902922",
+"sku": "RSV21105419001",
+"marca": "Reserva",
+"modelo": "RSV2110",
+"cor": "Preto",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Unissex",
+"lente_mm": "54",
+"ponte_mm": "19",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407512.jpeg"
+]
+},
+"27150": {
+"ean": "7899898902939",
+"sku": "RSV21105419215",
+"marca": "Reserva",
+"modelo": "RSV2110",
+"cor": "Tartaruga",
+"material": "Metal",
+"formato": "Retangular",
+"sexo": "Unissex",
+"lente_mm": "54",
+"ponte_mm": "19",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407516.jpeg"
+]
+},
+"27160": {
+"ean": "7899898900355",
+"sku": "RSV26004920001",
+"marca": "Reserva",
+"modelo": "RSV2600",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "20",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407535.jpeg"
+]
+},
+"27170": {
+"ean": "7899898900362",
+"sku": "RSV26004920971",
+"marca": "Reserva",
+"modelo": "RSV2600",
+"cor": "Cristal",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "20",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407544.jpeg"
+]
+},
+"27180": {
+"ean": "7899898900485",
+"sku": "RSV26014923001",
+"marca": "Reserva",
+"modelo": "RSV2601",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407558.jpeg"
+]
+},
+"27190": {
+"ean": "7899898900478",
+"sku": "RSV26014923231",
+"marca": "Reserva",
+"modelo": "RSV2601",
+"cor": "Marrom e Cinza",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407570.jpeg"
+]
+},
+"27200": {
+"ean": "7899898900508",
+"sku": "RSV26014923233",
+"marca": "Reserva",
+"modelo": "RSV2601",
+"cor": "Sand",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407574.jpeg"
+]
+},
+"27210": {
+"ean": "7899898900454",
+"sku": "RSV26025120414",
+"marca": "Reserva",
+"modelo": "RSV2602",
+"cor": "Azul Marinho Azul",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "20",
+"haste_mm": "148",
+"fotos": [
+"/uploads/1793407593.jpeg"
+]
+},
+"27220": {
+"ean": "7899898900447",
+"sku": "RSV26025120971",
+"marca": "Reserva",
+"modelo": "RSV2602",
+"cor": "Cristal",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "20",
+"haste_mm": "148",
+"fotos": [
+"/uploads/1793407605.jpeg"
+]
+},
+"27230": {
+"ean": "7899898900515",
+"sku": "RSV26035617001",
+"marca": "Reserva",
+"modelo": "RSV2603",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407611.jpeg"
+]
+},
+"27240": {
+"ean": "7899898900539",
+"sku": "RSV26035617971",
+"marca": "Reserva",
+"modelo": "RSV2603",
+"cor": "Cristal",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "17",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407626.jpeg"
+]
+},
+"27250": {
+"ean": "7899898900270",
+"sku": "RSV26066018001",
+"marca": "Reserva",
+"modelo": "RSV2606",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "60",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407638.jpeg"
+]
+},
+"27260": {
+"ean": "7899898900287",
+"sku": "RSV26066018414",
+"marca": "Reserva",
+"modelo": "RSV2606",
+"cor": "Azul Azul Marinho",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "60",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407650.jpeg"
+]
+},
+"27270": {
+"ean": "7899898900201",
+"sku": "RSV26075717021",
+"marca": "Reserva",
+"modelo": "RSV2607",
+"cor": "Preto e Cinza",
+"material": "Acetato",
+"formato": "Navegador",
+"sexo": "Masculino",
+"lente_mm": "57",
+"ponte_mm": "17",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407656.jpeg"
+]
+},
+"27280": {
+"ean": "7899898900195",
+"sku": "RSV26075717206",
+"marca": "Reserva",
+"modelo": "RSV2607",
+"cor": "Chocolate",
+"material": "Acetato",
+"formato": "Navegador",
+"sexo": "Masculino",
+"lente_mm": "57",
+"ponte_mm": "17",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407671.jpeg"
+]
+},
+"27290": {
+"ean": "7899898900188",
+"sku": "RSV26075717222",
+"marca": "Reserva",
+"modelo": "RSV2607",
+"cor": "Tartaruga",
+"material": "Acetato",
+"formato": "Navegador",
+"sexo": "Masculino",
+"lente_mm": "57",
+"ponte_mm": "17",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407681.jpeg"
+]
+},
+"27300": {
+"ean": "7899898900584",
+"sku": "RSV26095319971",
+"marca": "Reserva",
+"modelo": "RSV2609",
+"cor": "Cristal",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "19",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407689.jpeg"
+]
+},
+"27310": {
+"ean": "7899898900393",
+"sku": "RSV26105118214",
+"marca": "Reserva",
+"modelo": "RSV2610",
+"cor": "Havana",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407703.jpeg"
+]
+},
+"27320": {
+"ean": "7899898900416",
+"sku": "RSV26105118971",
+"marca": "Reserva",
+"modelo": "RSV2610",
+"cor": "Cristal",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407720.jpeg"
+]
+},
+"27330": {
+"ean": "7899898901185",
+"sku": "RSV26115518002",
+"marca": "Reserva",
+"modelo": "RSV2611",
+"cor": "Preto Fosco",
+"material": "Injetado",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "55",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407728.jpeg"
+]
+},
+"27340": {
+"ean": "7899898901628",
+"sku": "RSV26115518213",
+"marca": "Reserva",
+"modelo": "RSV2611",
+"cor": "Tartaruga Fosco",
+"material": "Injetado",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "55",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407740.jpeg"
+]
+},
+"27350": {
+"ean": "7899898901635",
+"sku": "RSV26115518970",
+"marca": "Reserva",
+"modelo": "RSV2611",
+"cor": "Fosco Translúcido",
+"material": "Injetado",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "55",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407751.jpeg"
+]
+},
+"27360": {
+"ean": "7899898901857",
+"sku": "RSV26135023001",
+"marca": "Reserva",
+"modelo": "RSV2613",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "50",
+"ponte_mm": "23",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407763.jpeg"
+]
+},
+"27370": {
+"ean": "7899898901666",
+"sku": "RSV26135023002",
+"marca": "Reserva",
+"modelo": "RSV2613",
+"cor": "Preto Fosco",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "50",
+"ponte_mm": "23",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407780.jpeg"
+]
+},
+"27380": {
+"ean": "7899898901895",
+"sku": "RSV26135023414",
+"marca": "Reserva",
+"modelo": "RSV2613",
+"cor": "Azul Marinho Fosco",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "50",
+"ponte_mm": "23",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793407794.jpeg"
+]
+},
+"27390": {
+"ean": "7899898901918",
+"sku": "RSV26144624215",
+"marca": "Reserva",
+"modelo": "RSV2614",
+"cor": "Tartaruga",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "46",
+"ponte_mm": "24",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407797.jpeg"
+]
+},
+"27400": {
+"ean": "7899898901949",
+"sku": "RSV26144624414",
+"marca": "Reserva",
+"modelo": "RSV2614",
+"cor": "Azul Marinho Fosco",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "46",
+"ponte_mm": "24",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407813.jpeg"
+]
+},
+"27410": {
+"ean": "7899898901925",
+"sku": "RSV26144624701",
+"marca": "Reserva",
+"modelo": "RSV2614",
+"cor": "Ocre Translúcido",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "46",
+"ponte_mm": "24",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407830.jpeg"
+]
+},
+"27420": {
+"ean": "7899898901932",
+"sku": "RSV26144624971",
+"marca": "Reserva",
+"modelo": "RSV2614",
+"cor": "Cristal",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "46",
+"ponte_mm": "24",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407836.jpeg"
+]
+},
+"27430": {
+"ean": "7899898901819",
+"sku": "RSV26155418001",
+"marca": "Reserva",
+"modelo": "RSV2615",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "54",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407850.jpeg"
+]
+},
+"27440": {
+"ean": "7899898901789",
+"sku": "RSV26155218002",
+"marca": "Reserva",
+"modelo": "RSV2615",
+"cor": "Preto Fosco",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "52",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407867.jpeg"
+]
+},
+"27450": {
+"ean": "7899898901796",
+"sku": "RSV26155218215",
+"marca": "Reserva",
+"modelo": "RSV2615",
+"cor": "Tartaruga",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "52",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407874.jpeg"
+]
+},
+"27460": {
+"ean": "7899898901833",
+"sku": "RSV26155418215",
+"marca": "Reserva",
+"modelo": "RSV2615",
+"cor": "Tartaruga",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "54",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407886.jpeg"
+]
+},
+"27470": {
+"ean": "7899898901802",
+"sku": "RSV26155218414",
+"marca": "Reserva",
+"modelo": "RSV2615",
+"cor": "Azul Marinho Fosco",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "52",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407897.jpeg"
+]
+},
+"27480": {
+"ean": "7899898901840",
+"sku": "RSV26155418414",
+"marca": "Reserva",
+"modelo": "RSV2615",
+"cor": "Azul Marinho Fosco",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "54",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407900.jpeg"
+]
+},
+"27490": {
+"ean": "7899898902045",
+"sku": "RSV26185123001",
+"marca": "Reserva",
+"modelo": "RSV2618",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407909.jpeg"
+]
+},
+"27500": {
+"ean": "7899898902069",
+"sku": "RSV26185123318",
+"marca": "Reserva",
+"modelo": "RSV2618",
+"cor": "Oliva",
+"material": "Injetado",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407913.jpeg"
+]
+},
+"27510": {
+"ean": "7899898902076",
+"sku": "RSV26185123414",
+"marca": "Reserva",
+"modelo": "RSV2618",
+"cor": "Azul",
+"material": "Injetado",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407922.jpeg"
+]
+},
+"27520": {
+"ean": "7899898902083",
+"sku": "RSV26185123701",
+"marca": "Reserva",
+"modelo": "RSV2618",
+"cor": "Ocre Translúcido",
+"material": "Injetado",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407925.jpeg"
+]
+},
+"27530": {
+"ean": "7899898902151",
+"sku": "RSV26205121213",
+"marca": "Reserva",
+"modelo": "RSV2620",
+"cor": "Tartaruga Fosco",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407938.jpeg"
+]
+},
+"27540": {
+"ean": "7899898902168",
+"sku": "RSV26205121318",
+"marca": "Reserva",
+"modelo": "RSV2620",
+"cor": "Oliva Escuro",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407935.jpeg"
+]
+},
+"27550": {
+"ean": "7899898902175",
+"sku": "RSV26205121414",
+"marca": "Reserva",
+"modelo": "RSV2620",
+"cor": "Azul",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407948.jpeg"
+]
+},
+"27560": {
+"ean": "7899898902182",
+"sku": "RSV26205121701",
+"marca": "Reserva",
+"modelo": "RSV2620",
+"cor": "Ocre Translúcido",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793407947.jpeg"
+]
+},
+"27570": {
+"ean": "7899898902199",
+"sku": "RSV26214920001",
+"marca": "Reserva",
+"modelo": "RSV2621",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "20",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793563197.jpeg"
+]
+},
+"27580": {
+"ean": "7899898902601",
+"sku": "RSV26214920213",
+"marca": "Reserva",
+"modelo": "RSV2621",
+"cor": "Tartaruga Fosco",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "20",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793563257.jpeg"
+]
+},
+"27590": {
+"ean": "7899898902618",
+"sku": "RSV26215120213",
+"marca": "Reserva",
+"modelo": "RSV2621",
+"cor": "Tartaruga Fosco",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "20",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793563275.jpeg"
+]
+},
+"27600": {
+"ean": "7899898902250",
+"sku": "RSV26214920424",
+"marca": "Reserva",
+"modelo": "RSV2621",
+"cor": "Azul Fosco",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "20",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793563299.jpeg"
+]
+},
+"27610": {
+"ean": "7899898902274",
+"sku": "RSV26225016002",
+"marca": "Reserva",
+"modelo": "RSV2622",
+"cor": "Preto Fosco",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Infantil",
+"lente_mm": "50",
+"ponte_mm": "16",
+"haste_mm": "135",
+"fotos": [
+"/uploads/1793407983.jpeg"
+]
+},
+"27620": {
+"ean": "7899898902298",
+"sku": "RSV26225016400",
+"marca": "Reserva",
+"modelo": "RSV2622",
+"cor": "Azul",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Infantil",
+"lente_mm": "50",
+"ponte_mm": "16",
+"haste_mm": "135",
+"fotos": [
+"/uploads/1793407980.jpeg"
+]
+},
+"27630": {
+"ean": "7899898902304",
+"sku": "RSV26225016601",
+"marca": "Reserva",
+"modelo": "RSV2622",
+"cor": "Vermelho e Azul",
+"material": "Injetado",
+"formato": "Retangular",
+"sexo": "Infantil",
+"lente_mm": "50",
+"ponte_mm": "16",
+"haste_mm": "135",
+"fotos": [
+"/uploads/1793407992.jpeg"
+]
+},
+"27640": {
+"ean": "7899898902311",
+"sku": "RSV26234718002",
+"marca": "Reserva",
+"modelo": "RSV2623",
+"cor": "Preto Fosco",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Infantil",
+"lente_mm": "47",
+"ponte_mm": "18",
+"haste_mm": "135",
+"fotos": [
+"/uploads/1793407995.jpeg"
+]
+},
+"27650": {
+"ean": "7899898902335",
+"sku": "RSV26234718400",
+"marca": "Reserva",
+"modelo": "RSV2623",
+"cor": "Azul",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Infantil",
+"lente_mm": "47",
+"ponte_mm": "18",
+"haste_mm": "135",
+"fotos": [
+"/uploads/1793408007.jpeg"
+]
+},
+"27660": {
+"ean": "7899898902342",
+"sku": "RSV26234718601",
+"marca": "Reserva",
+"modelo": "RSV2623",
+"cor": "Vermelho e Azul",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Infantil",
+"lente_mm": "47",
+"ponte_mm": "18",
+"haste_mm": "135",
+"fotos": [
+"/uploads/1793408004.jpeg"
+]
+},
+"27670": {
+"ean": "7899898903004",
+"sku": "RSV26244823002",
+"marca": "Reserva",
+"modelo": "RSV2624",
+"cor": "Preto Fosco",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "48",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408019.jpeg"
+]
+},
+"27680": {
+"ean": "7899898902991",
+"sku": "RSV26244823213",
+"marca": "Reserva",
+"modelo": "RSV2624",
+"cor": "Tartaruga Fosco",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "48",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408016.jpeg"
+]
+},
+"27690": {
+"ean": "7899898902984",
+"sku": "RSV26244823233",
+"marca": "Reserva",
+"modelo": "RSV2624",
+"cor": "Caramel",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "48",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408031.jpeg"
+]
+},
+"27700": {
+"ean": "7899898903011",
+"sku": "RSV26244823400",
+"marca": "Reserva",
+"modelo": "RSV2624",
+"cor": "Azul",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "48",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408028.jpeg"
+]
+},
+"27710": {
+"ean": "7899898902656",
+"sku": "RSV26254621215",
+"marca": "Reserva",
+"modelo": "RSV2625",
+"cor": "Tartaruga",
+"material": "Acetato",
+"formato": "P 3",
+"sexo": "Masculino",
+"lente_mm": "46",
+"ponte_mm": "21",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408041.jpeg"
+]
+},
+"27720": {
+"ean": "7899898902649",
+"sku": "RSV26254621233",
+"marca": "Reserva",
+"modelo": "RSV2625",
+"cor": "Caramel",
+"material": "Acetato",
+"formato": "P 3",
+"sexo": "Masculino",
+"lente_mm": "46",
+"ponte_mm": "21",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408042.jpeg"
+]
+},
+"27730": {
+"ean": "7899898902632",
+"sku": "RSV26254621315",
+"marca": "Reserva",
+"modelo": "RSV2625",
+"cor": "Verde",
+"material": "Acetato",
+"formato": "P 3",
+"sexo": "Masculino",
+"lente_mm": "46",
+"ponte_mm": "21",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408053.jpeg"
+]
+},
+"27740": {
+"ean": "7899898902663",
+"sku": "RSV26254621701",
+"marca": "Reserva",
+"modelo": "RSV2625",
+"cor": "Ocre Claro",
+"material": "Acetato",
+"formato": "P 3",
+"sexo": "Masculino",
+"lente_mm": "46",
+"ponte_mm": "21",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408059.jpeg"
+]
+},
+"27750": {
+"ean": "7899898902687",
+"sku": "RSV26284521001",
+"marca": "Reserva",
+"modelo": "RSV2628",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "45",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408065.jpeg"
+]
+},
+"27760": {
+"ean": "7899898902700",
+"sku": "RSV26284521214",
+"marca": "Reserva",
+"modelo": "RSV2628",
+"cor": "Havana",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "45",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408066.jpeg"
+]
+},
+"27770": {
+"ean": "7899898903110",
+"sku": "RSV26304921215",
+"marca": "Reserva",
+"modelo": "RSV2630",
+"cor": "Tartaruga",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "21",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408077.jpeg"
+]
+},
+"27780": {
+"ean": "7899898903196",
+"sku": "RSV26315319315",
+"marca": "Reserva",
+"modelo": "RSV2631",
+"cor": "Verde",
+"material": "Bioinjetado",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "19",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408078.jpeg"
+]
+},
+"27790": {
+"ean": "7899898903707",
+"sku": "RSV26324817001",
+"marca": "Reserva",
+"modelo": "RSV2632",
+"cor": "Preto",
+"material": "Bioinjetado",
+"formato": "Retangular",
+"sexo": "Infantil",
+"lente_mm": "48",
+"ponte_mm": "17",
+"haste_mm": "135",
+"fotos": [
+"/uploads/1793408088.jpeg"
+]
+},
+"27800": {
+"ean": "7899898903714",
+"sku": "RSV26324817414",
+"marca": "Reserva",
+"modelo": "RSV2632",
+"cor": "Azul",
+"material": "Bioinjetado",
+"formato": "Retangular",
+"sexo": "Infantil",
+"lente_mm": "48",
+"ponte_mm": "17",
+"haste_mm": "135",
+"fotos": [
+"/uploads/1793408093.jpeg"
+]
+},
+"27810": {
+"ean": "7899898903721",
+"sku": "RSV26324817615",
+"marca": "Reserva",
+"modelo": "RSV2632",
+"cor": "Vermelho",
+"material": "Bioinjetado",
+"formato": "Retangular",
+"sexo": "Infantil",
+"lente_mm": "48",
+"ponte_mm": "17",
+"haste_mm": "135",
+"fotos": [
+"/uploads/1793408100.jpeg"
+]
+},
+"27820": {
+"ean": "7899898903240",
+"sku": "RSV26344922001",
+"marca": "Reserva",
+"modelo": "RSV2634",
+"cor": "Preto",
+"material": "Bioinjetado",
+"formato": "Retangular",
+"sexo": "Unissex",
+"lente_mm": "49",
+"ponte_mm": "22",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408102.jpeg"
+]
+},
+"27830": {
+"ean": "7899898903271",
+"sku": "RSV26344922719",
+"marca": "Reserva",
+"modelo": "RSV2634",
+"cor": "Dourado Fosco",
+"material": "Bioinjetado",
+"formato": "Retangular",
+"sexo": "Unissex",
+"lente_mm": "49",
+"ponte_mm": "22",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408112.jpeg"
+]
+},
+"27840": {
+"ean": "7899898900676",
+"sku": "RSV1000S5221033",
+"marca": "Reserva",
+"modelo": "RSV1000S",
+"cor": "Grafite",
+"material": "Metal",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "52",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408113.jpeg"
+]
+},
+"27850": {
+"ean": "7899898900690",
+"sku": "RSV1000S5221041",
+"marca": "Reserva",
+"modelo": "RSV1000S",
+"cor": "Prata Fosco",
+"material": "Metal",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "52",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408123.jpeg"
+]
+},
+"27860": {
+"ean": "7899898900737",
+"sku": "RSV1002S5815041",
+"marca": "Reserva",
+"modelo": "RSV1002S",
+"cor": "Prata Fosco",
+"material": "Metal",
+"formato": "Navegador",
+"sexo": "Masculino",
+"lente_mm": "58",
+"ponte_mm": "15",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408126.jpeg"
+]
+},
+"27870": {
+"ean": "7899898900720",
+"sku": "RSV1002S5815714",
+"marca": "Reserva",
+"modelo": "RSV1002S",
+"cor": "Dourado",
+"material": "Metal",
+"formato": "Navegador",
+"sexo": "Masculino",
+"lente_mm": "58",
+"ponte_mm": "15",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408135.jpeg"
+]
+},
+"27880": {
+"ean": "7899898903530",
+"sku": "RSV1004S6014002",
+"marca": "Reserva",
+"modelo": "RSV1004S",
+"cor": "Preto Fosco",
+"material": "Metal",
+"formato": "Aviador",
+"sexo": "Masculino",
+"lente_mm": "60",
+"ponte_mm": "14",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408140.jpeg"
+]
+},
+"27890": {
+"ean": "7899898903547",
+"sku": "RSV1004S6014033",
+"marca": "Reserva",
+"modelo": "RSV1004S",
+"cor": "Grafite",
+"material": "Metal",
+"formato": "Aviador",
+"sexo": "Masculino",
+"lente_mm": "60",
+"ponte_mm": "14",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408147.jpeg"
+]
+},
+"27900": {
+"ean": "7899898900744",
+"sku": "RSV6001S5121001",
+"marca": "Reserva",
+"modelo": "RSV6001S",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408150.jpeg"
+]
+},
+"27910": {
+"ean": "7899898900751",
+"sku": "RSV6001S5121214",
+"marca": "Reserva",
+"modelo": "RSV6001S",
+"cor": "Havana",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408159.jpeg"
+]
+},
+"27920": {
+"ean": "7899898900775",
+"sku": "RSV6001S5121720",
+"marca": "Reserva",
+"modelo": "RSV6001S",
+"cor": "Mostarda Opalino",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408163.jpeg"
+]
+},
+"27930": {
+"ean": "7899898901055",
+"sku": "RSV6002S5221001",
+"marca": "Reserva",
+"modelo": "RSV6002S",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "52",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408170.jpeg"
+]
+},
+"27940": {
+"ean": "7899898901062",
+"sku": "RSV6002S5221214",
+"marca": "Reserva",
+"modelo": "RSV6002S",
+"cor": "Havana",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "52",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408173.jpeg"
+]
+},
+"27950": {
+"ean": "7899898900928",
+"sku": "RSV6003S5121206",
+"marca": "Reserva",
+"modelo": "RSV6003S",
+"cor": "Chocolate",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408182.jpeg"
+]
+},
+"27960": {
+"ean": "7899898900935",
+"sku": "RSV6003S5121729",
+"marca": "Reserva",
+"modelo": "RSV6003S",
+"cor": "Mostarda Translúcido",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408187.jpeg"
+]
+},
+"27970": {
+"ean": "7899898901109",
+"sku": "RSV6006S5420001",
+"marca": "Reserva",
+"modelo": "RSV6006S",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "54",
+"ponte_mm": "20",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408194.jpeg"
+]
+},
+"27980": {
+"ean": "7899898901116",
+"sku": "RSV6006S5420214",
+"marca": "Reserva",
+"modelo": "RSV6006S",
+"cor": "Havana",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "54",
+"ponte_mm": "20",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408198.jpeg"
+]
+},
+"27990": {
+"ean": "7899898900799",
+"sku": "RSV6008S5618004",
+"marca": "Reserva",
+"modelo": "RSV6008S",
+"cor": "Preto Fosco",
+"material": "Injetado",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408206.jpeg"
+]
+},
+"28000": {
+"ean": "7899898900812",
+"sku": "RSV6008S5618601",
+"marca": "Reserva",
+"modelo": "RSV6008S",
+"cor": "Vinho Fosco",
+"material": "Injetado",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408210.jpeg"
+]
+},
+"28010": {
+"ean": "7899898900805",
+"sku": "RSV6008S5618900",
+"marca": "Reserva",
+"modelo": "RSV6008S",
+"cor": "Fosco Translúcido",
+"material": "Injetado",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "56",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408217.jpeg"
+]
+},
+"28020": {
+"ean": "7899898900959",
+"sku": "RSV6009S5718214",
+"marca": "Reserva",
+"modelo": "RSV6009S",
+"cor": "Havana",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "57",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408219.jpeg"
+]
+},
+"28030": {
+"ean": "7899898900966",
+"sku": "RSV6009S5718820",
+"marca": "Reserva",
+"modelo": "RSV6009S",
+"cor": "Caramel Claro",
+"material": "Acetato",
+"formato": "Quadrado",
+"sexo": "Masculino",
+"lente_mm": "57",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408229.jpeg"
+]
+},
+"28040": {
+"ean": "7899898902397",
+"sku": "RSV6015S4924001",
+"marca": "Reserva",
+"modelo": "RSV6015S",
+"cor": "Preto",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "24",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408231.jpeg"
+]
+},
+"28050": {
+"ean": "7899898902427",
+"sku": "RSV6015S4924721",
+"marca": "Reserva",
+"modelo": "RSV6015S",
+"cor": "Mostarda Opalino",
+"material": "Injetado",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "49",
+"ponte_mm": "24",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408241.jpeg"
+]
+},
+"28060": {
+"ean": "7899898902571",
+"sku": "RSV6019S5418002",
+"marca": "Reserva",
+"modelo": "RSV6019S",
+"cor": "Preto Fosco",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "54",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408245.jpeg"
+]
+},
+"28070": {
+"ean": "7899898903493",
+"sku": "RSV6021S5121001",
+"marca": "Reserva",
+"modelo": "RSV6021S",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408253.jpeg"
+]
+},
+"28080": {
+"ean": "7899898903509",
+"sku": "RSV6021S5121218",
+"marca": "Reserva",
+"modelo": "RSV6021S",
+"cor": "Havana Mel",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408256.jpeg"
+]
+},
+"28090": {
+"ean": "7899898903516",
+"sku": "RSV6021S5121424",
+"marca": "Reserva",
+"modelo": "RSV6021S",
+"cor": "Azul Fosco",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408266.jpeg"
+]
+},
+"28100": {
+"ean": "7899898903592",
+"sku": "RSV6022S4627700",
+"marca": "Reserva",
+"modelo": "RSV6022S",
+"cor": "Ocre Claro",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "46",
+"ponte_mm": "27",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408268.jpeg"
+]
+},
+"28110": {
+"ean": "7899898903585",
+"sku": "RSV6022S4627715",
+"marca": "Reserva",
+"modelo": "RSV6022S",
+"cor": "Dourado",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "46",
+"ponte_mm": "27",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408278.jpeg"
+]
+},
+"28120": {
+"ean": "7899898903561",
+"sku": "RSV6022S4627971",
+"marca": "Reserva",
+"modelo": "RSV6022S",
+"cor": "Cristal",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "46",
+"ponte_mm": "27",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408282.jpeg"
+]
+},
+"28130": {
+"ean": "7899898903301",
+"sku": "RSV6023S5121001",
+"marca": "Reserva",
+"modelo": "RSV6023S",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408290.jpeg"
+]
+},
+"28140": {
+"ean": "7899898903738",
+"sku": "RSV6023S5121820",
+"marca": "Reserva",
+"modelo": "RSV6023S",
+"cor": "Caramel Claro",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "21",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408292.jpeg"
+]
+},
+"28150": {
+"ean": "7899898903431",
+"sku": "RSV6024S5321028",
+"marca": "Reserva",
+"modelo": "RSV6024S",
+"cor": "Fumê",
+"material": "Acetato",
+"formato": "Aviador",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "21",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408301.jpeg"
+]
+},
+"28160": {
+"ean": "7899898903400",
+"sku": "RSV6024S5321418",
+"marca": "Reserva",
+"modelo": "RSV6024S",
+"cor": "Fumê Azul",
+"material": "Acetato",
+"formato": "Aviador",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "21",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408305.jpeg"
+]
+},
+"28170": {
+"ean": "7899898903370",
+"sku": "RSV6026S5123001",
+"marca": "Reserva",
+"modelo": "RSV6026S",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408313.jpeg"
+]
+},
+"28180": {
+"ean": "7899898903387",
+"sku": "RSV6026S5123315",
+"marca": "Reserva",
+"modelo": "RSV6026S",
+"cor": "Rtransparent Verde",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "51",
+"ponte_mm": "23",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408315.jpeg"
+]
+},
+"28190": {
+"ean": "7899898904056",
+"sku": "RSV6029S4824001",
+"marca": "Reserva",
+"modelo": "RSV6029S",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "48",
+"ponte_mm": "24",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408325.jpeg"
+]
+},
+"28200": {
+"ean": "7899898904087",
+"sku": "RSV6029S4824217",
+"marca": "Reserva",
+"modelo": "RSV6029S",
+"cor": "Havana Caramelo",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "48",
+"ponte_mm": "24",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408330.jpeg"
+]
+},
+"28210": {
+"ean": "7899898904063",
+"sku": "RSV6029S4824233",
+"marca": "Reserva",
+"modelo": "RSV6029S",
+"cor": "Caramel",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "48",
+"ponte_mm": "24",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408337.jpeg"
+]
+},
+"28220": {
+"ean": "7899898904070",
+"sku": "RSV6029S4824701",
+"marca": "Reserva",
+"modelo": "RSV6029S",
+"cor": "Ocre Claro",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "48",
+"ponte_mm": "24",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408338.jpeg"
+]
+},
+"28230": {
+"ean": "7899898904100",
+"sku": "RSV6030S5318001",
+"marca": "Reserva",
+"modelo": "RSV6030S",
+"cor": "Preto",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408349.jpeg"
+]
+},
+"28240": {
+"ean": "7899898904094",
+"sku": "RSV6030S5318002",
+"marca": "Reserva",
+"modelo": "RSV6030S",
+"cor": "Preto Fosco",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Masculino",
+"lente_mm": "53",
+"ponte_mm": "18",
+"haste_mm": "150",
+"fotos": [
+"/uploads/1793408353.jpeg"
+]
+},
+"28250": {
+"ean": "7899898904278",
+"sku": "RSV6032S5218218",
+"marca": "Reserva",
+"modelo": "RSV6032S",
+"cor": "Havana Mel",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "52",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408360.jpeg"
+]
+},
+"28260": {
+"ean": "7899898904285",
+"sku": "RSV6032S5218315",
+"marca": "Reserva",
+"modelo": "RSV6032S",
+"cor": "Verde",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "52",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408362.jpeg"
+]
+},
+"28270": {
+"ean": "7899898904261",
+"sku": "RSV6032S5218414",
+"marca": "Reserva",
+"modelo": "RSV6032S",
+"cor": "Azul Marinho Azul",
+"material": "Acetato",
+"formato": "Redondo",
+"sexo": "Unissex",
+"lente_mm": "52",
+"ponte_mm": "18",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408373.jpeg"
+]
+},
+"28280": {
+"ean": "886895642385",
+"sku": "ZS24544S5220239",
+"marca": "ZEISS",
+"modelo": "ZS24544S",
+"cor": "Tartaruga",
+"material": "Acetato",
+"formato": "Retangular",
+"sexo": "Masculino",
+"lente_mm": "52",
+"ponte_mm": "20",
+"haste_mm": "145",
+"fotos": [
+"/uploads/1793408376.jpeg"
 ]
 },
 "8220": {
